@@ -57,6 +57,7 @@ $(document).ready(function(){
 					dataArray[i]['longitude']
 			);
 			var reference_file = dataArray[i]['reference_file'];
+			var dialog_content = dataArray[i]['latitude'] + "," + dataArray[i]['longitude'] + "  " + reference_file;
 			
 			var pixelLocation = projection.fromLatLngToDivPixel( geoLocation );
 
@@ -71,7 +72,9 @@ $(document).ready(function(){
 									+'top:'+pixelLocation.y+'px; '
 									+'position:absolute; '
 									+'cursor:pointer; '
-							+'">'
+								+'" '
+								+'data-dialog="'+dialog_content+'"'
+							+'>'
 								+'<img '
 									+'src="assets/camera-photo.png" '
 									+'style="position: absolute; top: -6px; left: -6px" '
@@ -79,7 +82,7 @@ $(document).ready(function(){
 							+'</div>');
 			
 			// For zoom 8 and closer show a title above the marker icon
-			if( zoom >= 8 ){
+			/*if( zoom >= 8 ){
 				$point.append('<span '
 								+'style="'
 									+'position:absolute; '
@@ -94,7 +97,7 @@ $(document).ready(function(){
 								+'">'
 									+ reference_file
 								+'</span>');
-			}
+			}*/
 			
 			// Append the HTML to the fragment in memory
 			fragment.appendChild( $point.get(0) );
@@ -131,8 +134,8 @@ $(document).ready(function(){
 	});
 	
 	// Make sure to use live because the markers are rendered by javascript after initial DOM load
-	$('.map-point').live('click',function( e ){
-		$dialog.empty().append($(this).attr('id'));
+	$('body').on('click', '.map-point', function( e ){
+		$dialog.empty().append($(this).data('dialog'));
 		$dialog.dialog('open');
 	});
 });

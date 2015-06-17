@@ -66,8 +66,8 @@ namespace TravelMap
 					if (latlong.Length == 2) {
 						string latitude = latlong [0];
 						string longitude = latlong [1];
-						location.Latitude = LocationMath.DegreesFromString (str: latitude);
-						location.Longitude = LocationMath.DegreesFromString (str: longitude);
+						location.Latitude = (double)LocationMath.DegreesFromString (str: latitude);
+						location.Longitude = (double)LocationMath.DegreesFromString (str: longitude);
 					}
 				}
 				if (tag.Name == "GPSDateTime") {

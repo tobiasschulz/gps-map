@@ -7,12 +7,12 @@ namespace TravelMap
 {
 	public static class LocationMath
 	{
-		public static double DegreesFromString (string str)
+		public static decimal DegreesFromString (string str)
 		{
 			// 50 deg 2' 48.41" N
 			// 8 deg 34' 4.85" E
 
-			double degrees = 0;
+			decimal degrees = 0;
 
 			List<string> parts = str.Trim ().Split (new char[]{ ' ' }, StringSplitOptions.RemoveEmptyEntries).ToList ();
 
@@ -21,16 +21,16 @@ namespace TravelMap
 			string secondsString = parts.FirstOrDefault (s => s.Count (c => char.IsDigit (c) || c == '.') == s.Length - 1 && s.EndsWith ("\""));
 			string northSouthEastWest = parts.FirstOrDefault (s => s == "N" || s == "S" || s == "E" || s == "W");
 
-			//Core.Common.Log.Info ("degreesString: ", degreesString, ", minutesString: ", minutesString, ", secondsString: ", secondsString, ", str: ", str);
+			Core.Common.Log.Info ("degreesString: ", degreesString, ", minutesString: ", minutesString, ", secondsString: ", secondsString, ", str: ", str);
 
 			if (!string.IsNullOrWhiteSpace (degreesString)) {
-				degrees += double.Parse (degreesString);
+				degrees += decimal.Parse (degreesString);
 			}
 			if (!string.IsNullOrWhiteSpace (minutesString)) {
-				degrees += double.Parse (minutesString.Replace ("'", "")) / 60.0;
+				degrees += decimal.Parse (minutesString.Replace ("'", "")) / 60.0m;
 			}
 			if (!string.IsNullOrWhiteSpace (secondsString)) {
-				degrees += double.Parse (secondsString.Replace ("\"", "")) / 3600.0;
+				degrees += decimal.Parse (secondsString.Replace ("\"", "")) / 3600.0m;
 			}
 			if (!string.IsNullOrWhiteSpace (northSouthEastWest)) {
 				if (northSouthEastWest == "W" && degrees > 0) {
