@@ -21,7 +21,7 @@ namespace TravelMap
 			string secondsString = parts.FirstOrDefault (s => s.Count (c => char.IsDigit (c) || c == '.') == s.Length - 1 && s.EndsWith ("\""));
 			string northSouthEastWest = parts.FirstOrDefault (s => s == "N" || s == "S" || s == "E" || s == "W");
 
-			Core.Common.Log.Info ("degreesString: ", degreesString, ", minutesString: ", minutesString, ", secondsString: ", secondsString, ", str: ", str);
+			//Core.Common.Log.Info ("degreesString: ", degreesString, ", minutesString: ", minutesString, ", secondsString: ", secondsString, ", str: ", str);
 
 			if (!string.IsNullOrWhiteSpace (degreesString)) {
 				degrees += decimal.Parse (degreesString);
