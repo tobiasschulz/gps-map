@@ -21,16 +21,16 @@ namespace TravelMap
 			string secondsString = parts.FirstOrDefault (s => s.Count (c => char.IsDigit (c) || c == '.') == s.Length - 1 && s.EndsWith ("\""));
 			string northSouthEastWest = parts.FirstOrDefault (s => s == "N" || s == "S" || s == "E" || s == "W");
 
-			//Core.Common.Log.Info ("degreesString: ", degreesString, ", minutesString: ", minutesString, ", secondsString: ", secondsString, ", str: ", str);
+			Core.Common.Log.Info ("degreesString: ", degreesString, ", minutesString: ", minutesString, ", secondsString: ", secondsString, ", str: ", str);
 
 			if (!string.IsNullOrWhiteSpace (degreesString)) {
-				degrees += decimal.Parse (degreesString);
+				degrees += decimal.Parse (degreesString, System.Globalization.CultureInfo.InvariantCulture);
 			}
 			if (!string.IsNullOrWhiteSpace (minutesString)) {
-				degrees += decimal.Parse (minutesString.Replace ("'", "")) / 60.0m;
+				degrees += decimal.Parse (minutesString.Replace ("'", ""), System.Globalization.CultureInfo.InvariantCulture) / 60.0m;
 			}
 			if (!string.IsNullOrWhiteSpace (secondsString)) {
-				degrees += decimal.Parse (secondsString.Replace ("\"", "")) / 3600.0m;
+				degrees += decimal.Parse (secondsString.Replace ("\"", ""), System.Globalization.CultureInfo.InvariantCulture) / 3600.0m;
 			}
 			if (!string.IsNullOrWhiteSpace (northSouthEastWest)) {
 				if (northSouthEastWest == "W" && degrees > 0) {

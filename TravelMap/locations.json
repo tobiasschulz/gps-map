@@ -10729,6 +10729,54 @@
       "reference_file": "IMG_20150606_150329.jpg"
     },
     {
+      "latitude": 41.6575,
+      "longitude": -75.261944444444453,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:04:05",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_150341.jpg"
+    },
+    {
+      "latitude": 41.657777777777781,
+      "longitude": -75.26166666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:04:25",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_150412.jpg"
+    },
+    {
+      "latitude": 41.656944444444441,
+      "longitude": -75.218888888888884,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:10:11",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_150438.jpg"
+    },
+    {
+      "latitude": 41.657222222222224,
+      "longitude": -75.219722222222217,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:10:49",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_151044.jpg"
+    },
+    {
+      "latitude": 41.6575,
+      "longitude": -75.220277777777781,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:11:59",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_151118.jpg"
+    },
+    {
+      "latitude": 41.656666666666666,
+      "longitude": -75.228888888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:12:39",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_151214.jpg"
+    },
+    {
       "latitude": 41.667777777777779,
       "longitude": -75.220277777777781,
       "altitude": 0.0,
@@ -12079,6 +12127,126 @@
       "timestamp": "2015-06-06T19:22:06",
       "provider": "exif",
       "reference_file": "IMG_20150606_152224.jpg"
+    },
+    {
+      "latitude": 41.653333333333329,
+      "longitude": -75.246388888888887,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:22:25",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_152228.jpg"
+    },
+    {
+      "latitude": 41.655277777777783,
+      "longitude": -75.24166666666666,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:23:05",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_152241.jpg"
+    },
+    {
+      "latitude": 41.656666666666666,
+      "longitude": -75.24,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:23:23",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_152319.jpg"
+    },
+    {
+      "latitude": 41.643888888888888,
+      "longitude": -75.230555555555554,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:28:10",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_152753.jpg"
+    },
+    {
+      "latitude": 41.650555555555549,
+      "longitude": -75.226944444444442,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:28:29",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_152821.jpg"
+    },
+    {
+      "latitude": 41.645277777777771,
+      "longitude": -75.205555555555549,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:29:09",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_152848.jpg"
+    },
+    {
+      "latitude": 41.643055555555556,
+      "longitude": -75.217222222222219,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:29:40",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_152931.jpg"
+    },
+    {
+      "latitude": 41.642777777777773,
+      "longitude": -75.217777777777783,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:29:59",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_152957.jpg"
+    },
+    {
+      "latitude": 41.643055555555556,
+      "longitude": -75.216666666666669,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:30:39",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_153017.jpg"
+    },
+    {
+      "latitude": 41.63666666666667,
+      "longitude": -75.214166666666671,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:30:59",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_153054.jpg"
+    },
+    {
+      "latitude": 41.646666666666668,
+      "longitude": -75.2161111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:31:59",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_153122.jpg"
+    },
+    {
+      "latitude": 41.646388888888886,
+      "longitude": -75.215277777777786,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:32:20",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_153205.jpg"
+    },
+    {
+      "latitude": 41.642777777777773,
+      "longitude": -75.214166666666671,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:33:20",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_153233.jpg"
+    },
+    {
+      "latitude": 41.6425,
+      "longitude": -75.209166666666661,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:33:39",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_153338.jpg"
+    },
+    {
+      "latitude": 41.640555555555551,
+      "longitude": -75.209444444444443,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:34:19",
+      "provider": "exif",
+      "reference_file": "PANO_20150606_153400.jpg"
     },
     {
       "latitude": 41.640555555555551,
@@ -13833,6 +14001,102 @@
       "reference_file": "IMG_20150607_142245.jpg"
     },
     {
+      "latitude": 41.00888888888889,
+      "longitude": -75.054722222222225,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T18:23:40",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_142317.jpg"
+    },
+    {
+      "latitude": 41.010833333333331,
+      "longitude": -75.032777777777781,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T18:24:29",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_142400.jpg"
+    },
+    {
+      "latitude": 41.015833333333333,
+      "longitude": -75.035277777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T18:24:52",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_142440.jpg"
+    },
+    {
+      "latitude": 41.014722222222225,
+      "longitude": -75.0375,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T18:25:11",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_142512.jpg"
+    },
+    {
+      "latitude": 41.016388888888891,
+      "longitude": -75.021111111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T18:26:01",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_142529.jpg"
+    },
+    {
+      "latitude": 40.996666666666663,
+      "longitude": -74.961388888888891,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T18:52:08",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_145147.jpg"
+    },
+    {
+      "latitude": 41.25194444444444,
+      "longitude": -75.0886111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T18:52:39",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_145213.jpg"
+    },
+    {
+      "latitude": 41.035833333333329,
+      "longitude": -74.927222222222213,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T18:53:28",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_145243.jpg"
+    },
+    {
+      "latitude": 41.044722222222219,
+      "longitude": -74.9161111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T18:53:49",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_145341.jpg"
+    },
+    {
+      "latitude": 41.06944444444445,
+      "longitude": -74.891944444444448,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T18:55:15",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_145453.jpg"
+    },
+    {
+      "latitude": 41.06583333333333,
+      "longitude": -74.891944444444448,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T18:55:35",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_145520.jpg"
+    },
+    {
+      "latitude": 41.068055555555553,
+      "longitude": -74.851111111111109,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T18:57:37",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_145739.jpg"
+    },
+    {
       "latitude": 41.066388888888888,
       "longitude": -74.81,
       "altitude": 0.0,
@@ -14025,6 +14289,62 @@
       "reference_file": "IMG_20150607_150601.jpg"
     },
     {
+      "latitude": 40.993333333333332,
+      "longitude": -74.742499999999993,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T19:06:25",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_150611.jpg"
+    },
+    {
+      "latitude": 41.007222222222218,
+      "longitude": -74.711944444444441,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T19:07:36",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_150631.jpg"
+    },
+    {
+      "latitude": 41.007499999999993,
+      "longitude": -74.7186111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T19:07:58",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_150743.jpg"
+    },
+    {
+      "latitude": 41.007222222222218,
+      "longitude": -74.7186111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T19:08:47",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_150829.jpg"
+    },
+    {
+      "latitude": 40.960277777777776,
+      "longitude": -74.768888888888881,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T19:10:58",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_151013.jpg"
+    },
+    {
+      "latitude": 40.961944444444448,
+      "longitude": -74.762777777777771,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T19:12:21",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_151103.jpg"
+    },
+    {
+      "latitude": 40.900555555555549,
+      "longitude": -74.724166666666662,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T19:17:54",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_151750.jpg"
+    },
+    {
       "latitude": 40.896388888888886,
       "longitude": -74.711111111111109,
       "altitude": 0.0,
@@ -14047,6 +14367,14 @@
       "timestamp": "2015-06-07T19:21:19",
       "provider": "exif",
       "reference_file": "IMG_20150607_152128.jpg"
+    },
+    {
+      "latitude": 40.906111111111109,
+      "longitude": -74.695555555555558,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T19:40:29",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_154000.jpg"
     },
     {
       "latitude": 41.06583333333333,
@@ -14217,6 +14545,22 @@
       "reference_file": "IMG_20150607_154801.jpg"
     },
     {
+      "latitude": 41.183888888888895,
+      "longitude": -74.766388888888883,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T20:13:25",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_161241.jpg"
+    },
+    {
+      "latitude": 41.182222222222222,
+      "longitude": -74.7811111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T20:14:04",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_161334.jpg"
+    },
+    {
       "latitude": 41.188611111111115,
       "longitude": -74.836388888888891,
       "altitude": 0.0,
@@ -14239,6 +14583,46 @@
       "timestamp": "2015-06-07T20:15:38",
       "provider": "exif",
       "reference_file": "IMG_20150607_161552.jpg"
+    },
+    {
+      "latitude": 41.223055555555561,
+      "longitude": -74.817222222222213,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T20:17:29",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_161650.jpg"
+    },
+    {
+      "latitude": 41.291666666666664,
+      "longitude": -74.775833333333324,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T20:19:54",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_161901.jpg"
+    },
+    {
+      "latitude": 41.335555555555551,
+      "longitude": -74.75555555555556,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T20:21:14",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_162009.jpg"
+    },
+    {
+      "latitude": 41.344722222222224,
+      "longitude": -74.748333333333335,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T20:23:46",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_162300.jpg"
+    },
+    {
+      "latitude": 41.346111111111107,
+      "longitude": -74.746111111111119,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T20:24:17",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_162412.jpg"
     },
     {
       "latitude": 41.395555555555553,
@@ -14295,6 +14679,30 @@
       "timestamp": "2015-06-07T20:25:28",
       "provider": "exif",
       "reference_file": "IMG_20150607_162534.jpg"
+    },
+    {
+      "latitude": 41.386944444444445,
+      "longitude": -74.773055555555558,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T20:26:37",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_162625.jpg"
+    },
+    {
+      "latitude": 41.38666666666667,
+      "longitude": -74.82138888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T20:27:36",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_162644.jpg"
+    },
+    {
+      "latitude": 41.388888888888886,
+      "longitude": -74.81805555555556,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T20:27:56",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_162751.jpg"
     },
     {
       "latitude": 41.389166666666668,
@@ -14407,6 +14815,22 @@
       "timestamp": "2015-06-07T20:56:53",
       "provider": "exif",
       "reference_file": "IMG_20150607_165705.jpg"
+    },
+    {
+      "latitude": 41.461666666666666,
+      "longitude": -74.711388888888891,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T20:57:38",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_165736.jpg"
+    },
+    {
+      "latitude": 41.471944444444446,
+      "longitude": -74.713333333333324,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T20:59:03",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_165813.jpg"
     },
     {
       "latitude": 41.469444444444441,
@@ -14649,6 +15073,22 @@
       "reference_file": "IMG_20150607_172028.jpg"
     },
     {
+      "latitude": 41.653888888888886,
+      "longitude": -74.685833333333335,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T21:20:52",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_172033.jpg"
+    },
+    {
+      "latitude": 41.654722222222226,
+      "longitude": -74.689166666666665,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T21:21:13",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_172101.jpg"
+    },
+    {
       "latitude": 41.653611111111111,
       "longitude": -74.686388888888885,
       "altitude": 0.0,
@@ -14713,6 +15153,14 @@
       "reference_file": "IMG_20150607_172207.jpg"
     },
     {
+      "latitude": 41.655277777777783,
+      "longitude": -74.686666666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T21:22:23",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_172218.jpg"
+    },
+    {
       "latitude": 41.657777777777781,
       "longitude": -74.686666666666667,
       "altitude": 0.0,
@@ -14751,6 +15199,22 @@
       "timestamp": "2015-06-07T21:23:05",
       "provider": "exif",
       "reference_file": "IMG_20150607_172316.jpg"
+    },
+    {
+      "latitude": 41.706111111111113,
+      "longitude": -74.65,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T21:24:06",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_172350.jpg"
+    },
+    {
+      "latitude": 41.696944444444448,
+      "longitude": -74.65,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T21:24:42",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_172422.jpg"
     },
     {
       "latitude": 41.69638888888889,
@@ -15145,6 +15609,30 @@
       "reference_file": "IMG_20150607_174135.jpg"
     },
     {
+      "latitude": 41.851388888888884,
+      "longitude": -74.69027777777778,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T21:41:07",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_174110.jpg"
+    },
+    {
+      "latitude": 41.853055555555557,
+      "longitude": -74.665555555555557,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T21:45:32",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_174512.jpg"
+    },
+    {
+      "latitude": 41.854722222222222,
+      "longitude": -74.664166666666659,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T21:45:51",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_174540.jpg"
+    },
+    {
       "latitude": 41.854166666666664,
       "longitude": -74.6575,
       "altitude": 0.0,
@@ -15447,6 +15935,14 @@
       "timestamp": "2015-06-07T21:55:53",
       "provider": "exif",
       "reference_file": "IMG_20150607_175609.jpg"
+    },
+    {
+      "latitude": 41.869722222222222,
+      "longitude": -74.570555555555558,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T21:57:39",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_175710.jpg"
     },
     {
       "latitude": 41.984722222222217,
@@ -15921,6 +16417,30 @@
       "reference_file": "IMG_20150607_182435.jpg"
     },
     {
+      "latitude": 41.9025,
+      "longitude": -74.3963888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T22:24:54",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_182444.jpg"
+    },
+    {
+      "latitude": 41.905277777777783,
+      "longitude": -74.395277777777778,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T22:25:13",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_182510.jpg"
+    },
+    {
+      "latitude": 41.904722222222226,
+      "longitude": -74.394444444444446,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T22:25:53",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_182535.jpg"
+    },
+    {
       "latitude": 41.992777777777775,
       "longitude": -74.199722222222221,
       "altitude": 0.0,
@@ -16081,12 +16601,36 @@
       "reference_file": "IMG_20150607_183411.jpg"
     },
     {
+      "latitude": 42.043888888888887,
+      "longitude": -74.2186111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T22:34:44",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_183416.jpg"
+    },
+    {
       "latitude": 42.0525,
       "longitude": -74.20194444444445,
       "altitude": 0.0,
       "timestamp": "2015-06-07T22:38:22",
       "provider": "exif",
       "reference_file": "IMG_20150607_183822.jpg"
+    },
+    {
+      "latitude": 42.053333333333335,
+      "longitude": -74.20472222222223,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T22:38:53",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_183854.jpg"
+    },
+    {
+      "latitude": 42.053055555555559,
+      "longitude": -74.205,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T22:39:24",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_183915.jpg"
     },
     {
       "latitude": 42.055,
@@ -16215,6 +16759,38 @@
       "timestamp": "2015-06-07T23:07:08",
       "provider": "exif",
       "reference_file": "IMG_20150607_190710.jpg"
+    },
+    {
+      "latitude": 42.18277777777778,
+      "longitude": -74.278333333333336,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T23:07:47",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_190715.jpg"
+    },
+    {
+      "latitude": 42.191388888888888,
+      "longitude": -74.283888888888882,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T23:08:37",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_190759.jpg"
+    },
+    {
+      "latitude": 42.181666666666665,
+      "longitude": -74.339166666666671,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T23:10:40",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_190957.jpg"
+    },
+    {
+      "latitude": 42.106666666666662,
+      "longitude": -74.393333333333331,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T23:12:11",
+      "provider": "exif",
+      "reference_file": "PANO_20150607_191149.jpg"
     },
     {
       "latitude": 42.018055555555556,
@@ -18705,6 +19281,38 @@
       "reference_file": "IMG_20150608_115759.jpg"
     },
     {
+      "latitude": 39.331111111111113,
+      "longitude": -78.481944444444437,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T15:58:27",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_115805.jpg"
+    },
+    {
+      "latitude": 39.317777777777778,
+      "longitude": -78.439722222222215,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T15:59:06",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_115913.jpg"
+    },
+    {
+      "latitude": 39.323055555555555,
+      "longitude": -78.44916666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T15:59:26",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_115928.jpg"
+    },
+    {
+      "latitude": 39.351111111111109,
+      "longitude": -78.431666666666672,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T15:59:46",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_115943.jpg"
+    },
+    {
       "latitude": 39.451944444444443,
       "longitude": -78.577222222222218,
       "altitude": 0.0,
@@ -19657,6 +20265,22 @@
       "reference_file": "IMG_20150608_121224.jpg"
     },
     {
+      "latitude": 39.471111111111114,
+      "longitude": -78.660833333333329,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T16:13:08",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_121303.jpg"
+    },
+    {
+      "latitude": 39.488611111111112,
+      "longitude": -78.670833333333334,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T16:13:58",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_121324.jpg"
+    },
+    {
       "latitude": 39.486388888888889,
       "longitude": -78.68416666666667,
       "altitude": 0.0,
@@ -20249,6 +20873,54 @@
       "reference_file": "IMG_20150608_122145.jpg"
     },
     {
+      "latitude": 39.509444444444441,
+      "longitude": -78.591944444444437,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T16:22:29",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_122150.jpg"
+    },
+    {
+      "latitude": 39.5125,
+      "longitude": -78.591944444444437,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T16:23:09",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_122236.jpg"
+    },
+    {
+      "latitude": 39.5125,
+      "longitude": -78.591944444444437,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T16:23:09",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_122236~2.jpg"
+    },
+    {
+      "latitude": 39.513611111111111,
+      "longitude": -78.5925,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T16:24:09",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_122320.jpg"
+    },
+    {
+      "latitude": 39.513611111111111,
+      "longitude": -78.590555555555554,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T16:24:29",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_122420.jpg"
+    },
+    {
+      "latitude": 39.498055555555553,
+      "longitude": -78.570277777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T16:25:09",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_122433.jpg"
+    },
+    {
       "latitude": 39.567777777777778,
       "longitude": -78.554999999999993,
       "altitude": 0.0,
@@ -20335,6 +21007,22 @@
       "timestamp": "2015-06-08T16:30:18",
       "provider": "exif",
       "reference_file": "IMG_20150608_123042.jpg"
+    },
+    {
+      "latitude": 39.621388888888895,
+      "longitude": -78.52,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T16:31:08",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_123056.jpg"
+    },
+    {
+      "latitude": 39.617777777777775,
+      "longitude": -78.518888888888881,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T16:31:27",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_123121.jpg"
     },
     {
       "latitude": 39.619722222222222,
@@ -21225,6 +21913,14 @@
       "reference_file": "IMG_20150608_125930.jpg"
     },
     {
+      "latitude": 40.4275,
+      "longitude": -77.356111111111119,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T16:59:59",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_125949.jpg"
+    },
+    {
       "latitude": 40.428055555555559,
       "longitude": -77.355833333333337,
       "altitude": 0.0,
@@ -21839,6 +22535,30 @@
       "timestamp": "2015-06-08T17:03:01",
       "provider": "exif",
       "reference_file": "IMG_20150608_130316.jpg"
+    },
+    {
+      "latitude": 40.414166666666667,
+      "longitude": -77.353611111111121,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T17:04:08",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_130405.jpg"
+    },
+    {
+      "latitude": 40.411388888888887,
+      "longitude": -77.356666666666669,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T17:04:29",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_130427.jpg"
+    },
+    {
+      "latitude": 40.524166666666666,
+      "longitude": -78.545277777777784,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T17:17:44",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_131737.jpg"
     },
     {
       "latitude": 40.542500000000004,
@@ -24521,6 +25241,14 @@
       "reference_file": "IMG_20150608_154337.jpg"
     },
     {
+      "latitude": 39.500555555555557,
+      "longitude": -78.068888888888893,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T19:45:40",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_154547.jpg"
+    },
+    {
       "latitude": 39.505,
       "longitude": -78.066111111111113,
       "altitude": 0.0,
@@ -24551,6 +25279,30 @@
       "timestamp": "2015-06-08T19:47:28",
       "provider": "exif",
       "reference_file": "IMG_20150608_154736.jpg"
+    },
+    {
+      "latitude": 39.501111111111108,
+      "longitude": -78.049444444444447,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T19:48:49",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_154843.jpg"
+    },
+    {
+      "latitude": 39.503611111111113,
+      "longitude": -78.046666666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T19:49:08",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_154907.jpg"
+    },
+    {
+      "latitude": 39.50611111111111,
+      "longitude": -78.049722222222215,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T19:49:28",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_154928.jpg"
     },
     {
       "latitude": 39.500277777777775,
@@ -24631,6 +25383,14 @@
       "timestamp": "2015-06-08T19:53:38",
       "provider": "exif",
       "reference_file": "IMG_20150608_155352.jpg"
+    },
+    {
+      "latitude": 39.508333333333333,
+      "longitude": -78.06027777777777,
+      "altitude": 0.0,
+      "timestamp": "2015-06-08T19:55:15",
+      "provider": "exif",
+      "reference_file": "PANO_20150608_155437.jpg"
     },
     {
       "latitude": 39.546388888888892,
@@ -26425,6 +27185,46 @@
       "reference_file": "IMG_20150609_142953.jpg"
     },
     {
+      "latitude": 41.232222222222219,
+      "longitude": -75.283055555555563,
+      "altitude": 0.0,
+      "timestamp": "2015-06-09T18:32:56",
+      "provider": "exif",
+      "reference_file": "PANO_20150609_143225.jpg"
+    },
+    {
+      "latitude": 41.316388888888888,
+      "longitude": -75.204444444444448,
+      "altitude": 0.0,
+      "timestamp": "2015-06-09T18:35:33",
+      "provider": "exif",
+      "reference_file": "PANO_20150609_143510.jpg"
+    },
+    {
+      "latitude": 41.661944444444444,
+      "longitude": -74.911944444444444,
+      "altitude": 0.0,
+      "timestamp": "2015-06-09T18:44:33",
+      "provider": "exif",
+      "reference_file": "PANO_20150609_144300.jpg"
+    },
+    {
+      "latitude": 41.705555555555556,
+      "longitude": -74.87777777777778,
+      "altitude": 0.0,
+      "timestamp": "2015-06-09T18:45:33",
+      "provider": "exif",
+      "reference_file": "PANO_20150609_144451.jpg"
+    },
+    {
+      "latitude": 41.696666666666665,
+      "longitude": -74.8886111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-09T18:45:52",
+      "provider": "exif",
+      "reference_file": "PANO_20150609_144538.jpg"
+    },
+    {
       "latitude": 41.518888888888888,
       "longitude": -74.429444444444442,
       "altitude": 0.0,
@@ -26753,6 +27553,22 @@
       "reference_file": "IMG_20150609_184244.jpg"
     },
     {
+      "latitude": 41.578888888888891,
+      "longitude": -75.003055555555548,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T14:18:36",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_101754.jpg"
+    },
+    {
+      "latitude": 41.581111111111113,
+      "longitude": -75.001111111111115,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T14:20:35",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_102007.jpg"
+    },
+    {
       "latitude": 41.613611111111112,
       "longitude": -75.07694444444445,
       "altitude": 0.0,
@@ -26905,6 +27721,30 @@
       "reference_file": "IMG_20150610_113213.jpg"
     },
     {
+      "latitude": 41.225,
+      "longitude": -75.3788888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T15:32:44",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_113219.jpg"
+    },
+    {
+      "latitude": 41.221388888888889,
+      "longitude": -75.3763888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T15:33:24",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_113303.jpg"
+    },
+    {
+      "latitude": 41.102777777777781,
+      "longitude": -75.322222222222223,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T15:36:39",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_113635.jpg"
+    },
+    {
       "latitude": 40.884722222222216,
       "longitude": -74.873888888888885,
       "altitude": 0.0,
@@ -26962,6 +27802,14 @@
     },
     {
       "latitude": 40.884722222222216,
+      "longitude": -74.874166666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T15:52:20",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_115216.jpg"
+    },
+    {
+      "latitude": 40.884722222222216,
       "longitude": -74.873888888888885,
       "altitude": 0.0,
       "timestamp": "2015-06-10T16:48:30",
@@ -26975,6 +27823,54 @@
       "timestamp": "2015-06-10T16:48:30",
       "provider": "exif",
       "reference_file": "IMG_20150610_124838.jpg"
+    },
+    {
+      "latitude": 40.884722222222216,
+      "longitude": -74.874166666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T16:48:51",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_124847.jpg"
+    },
+    {
+      "latitude": 40.884722222222216,
+      "longitude": -74.874166666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T16:49:33",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_124912.jpg"
+    },
+    {
+      "latitude": 40.884722222222216,
+      "longitude": -74.874166666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T16:51:11",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_125057.jpg"
+    },
+    {
+      "latitude": 40.85,
+      "longitude": -74.665555555555557,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T17:17:40",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_131733.jpg"
+    },
+    {
+      "latitude": 41.252777777777773,
+      "longitude": -74.521666666666661,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T17:46:00",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_134516.jpg"
+    },
+    {
+      "latitude": 40.903055555555554,
+      "longitude": -74.0325,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T17:54:05",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_135401.jpg"
     },
     {
       "latitude": 40.912777777777777,
@@ -27039,6 +27935,14 @@
       "timestamp": "2015-06-10T17:54:57",
       "provider": "exif",
       "reference_file": "IMG_20150610_135502.jpg"
+    },
+    {
+      "latitude": 40.903888888888886,
+      "longitude": -74.049166666666665,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T17:55:16",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_135508.jpg"
     },
     {
       "latitude": 40.874722222222218,
@@ -27273,6 +28177,86 @@
       "reference_file": "IMG_20150610_135846.jpg"
     },
     {
+      "latitude": 40.797222222222224,
+      "longitude": -75.572499999999991,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T18:00:06",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_140007.jpg"
+    },
+    {
+      "latitude": 40.786111111111104,
+      "longitude": -75.546111111111117,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T18:00:33",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_140024.jpg"
+    },
+    {
+      "latitude": 40.781388888888884,
+      "longitude": -75.5286111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T18:01:14",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_140047.jpg"
+    },
+    {
+      "latitude": 40.805,
+      "longitude": -75.475277777777777,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T18:01:52",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_140127.jpg"
+    },
+    {
+      "latitude": 40.817499999999995,
+      "longitude": -75.471944444444446,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T18:02:34",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_140215.jpg"
+    },
+    {
+      "latitude": 40.81722222222222,
+      "longitude": -75.4525,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T18:04:00",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_140335.jpg"
+    },
+    {
+      "latitude": 40.845833333333331,
+      "longitude": -75.451666666666668,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T18:04:56",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_140416.jpg"
+    },
+    {
+      "latitude": 40.884166666666665,
+      "longitude": -75.4625,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T18:07:29",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_140514.jpg"
+    },
+    {
+      "latitude": 40.906944444444441,
+      "longitude": -75.455,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T18:08:09",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_140738.jpg"
+    },
+    {
+      "latitude": 40.922222222222224,
+      "longitude": -75.4525,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T18:08:51",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_143242.jpg"
+    },
+    {
       "latitude": 41.100277777777777,
       "longitude": -75.356944444444437,
       "altitude": 0.0,
@@ -27503,6 +28487,142 @@
       "timestamp": "2015-06-10T19:22:24",
       "provider": "exif",
       "reference_file": "IMG_20150610_152227.jpg"
+    },
+    {
+      "latitude": 41.038888888888884,
+      "longitude": -75.259722222222223,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T19:28:47",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_152827.jpg"
+    },
+    {
+      "latitude": 41.038888888888884,
+      "longitude": -75.260277777777773,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T19:29:36",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_152853.jpg"
+    },
+    {
+      "latitude": 41.018055555555556,
+      "longitude": -75.276388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T19:30:49",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_152946.jpg"
+    },
+    {
+      "latitude": 41.033888888888889,
+      "longitude": -75.359166666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T19:31:33",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_153130.jpg"
+    },
+    {
+      "latitude": 40.99166666666666,
+      "longitude": -75.37833333333333,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T19:33:32",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_153148.jpg"
+    },
+    {
+      "latitude": 40.956111111111113,
+      "longitude": -75.412777777777777,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T19:34:42",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_153419.jpg"
+    },
+    {
+      "latitude": 40.738333333333337,
+      "longitude": -75.5286111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T19:38:30",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_153827.jpg"
+    },
+    {
+      "latitude": 42.160833333333329,
+      "longitude": -75.373888888888885,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T19:46:51",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_154628.jpg"
+    },
+    {
+      "latitude": 42.161111111111104,
+      "longitude": -75.37277777777777,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T19:47:10",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_154656.jpg"
+    },
+    {
+      "latitude": 42.161666666666662,
+      "longitude": -75.379722222222213,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T19:48:11",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_154807.jpg"
+    },
+    {
+      "latitude": 42.151388888888889,
+      "longitude": -75.3763888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T19:49:11",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_154831.jpg"
+    },
+    {
+      "latitude": 42.116111111111117,
+      "longitude": -75.4036111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T19:51:03",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_155021.jpg"
+    },
+    {
+      "latitude": 42.092222222222226,
+      "longitude": -75.44083333333333,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T19:51:40",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_155137.jpg"
+    },
+    {
+      "latitude": 42.071666666666665,
+      "longitude": -75.505833333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T19:56:42",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_155614.jpg"
+    },
+    {
+      "latitude": 41.973611111111104,
+      "longitude": -74.4225,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T20:07:33",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_160710.jpg"
+    },
+    {
+      "latitude": 41.956388888888888,
+      "longitude": -74.485,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T20:09:05",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_160841.jpg"
+    },
+    {
+      "latitude": 41.955833333333331,
+      "longitude": -74.48555555555555,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T20:09:24",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_160916.jpg"
     },
     {
       "latitude": 41.913888888888884,
@@ -27825,6 +28945,14 @@
       "reference_file": "IMG_20150610_162259.jpg"
     },
     {
+      "latitude": 41.538888888888884,
+      "longitude": -75.638333333333335,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T20:23:44",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_162306.jpg"
+    },
+    {
       "latitude": 41.548333333333339,
       "longitude": -75.647222222222226,
       "altitude": 0.0,
@@ -28097,6 +29225,22 @@
       "reference_file": "IMG_20150610_162948.jpg"
     },
     {
+      "latitude": 41.416944444444439,
+      "longitude": -75.471666666666664,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T20:30:08",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_162954.jpg"
+    },
+    {
+      "latitude": 41.418611111111105,
+      "longitude": -75.4786111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T20:31:08",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_163015.jpg"
+    },
+    {
       "latitude": 41.4125,
       "longitude": -75.474722222222226,
       "altitude": 0.0,
@@ -28209,6 +29353,46 @@
       "reference_file": "IMG_20150610_163314.jpg"
     },
     {
+      "latitude": 41.285833333333329,
+      "longitude": -75.305833333333339,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T20:36:16",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_163537.jpg"
+    },
+    {
+      "latitude": 41.286388888888887,
+      "longitude": -75.307777777777773,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T20:36:36",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_163620.jpg"
+    },
+    {
+      "latitude": 41.271388888888886,
+      "longitude": -75.290277777777774,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T20:37:16",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_163646.jpg"
+    },
+    {
+      "latitude": 41.105,
+      "longitude": -75.102222222222224,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T20:40:27",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_164024.jpg"
+    },
+    {
+      "latitude": 41.118333333333332,
+      "longitude": -75.083611111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T20:40:46",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_164045.jpg"
+    },
+    {
       "latitude": 41.06444444444444,
       "longitude": -75.043055555555554,
       "altitude": 0.0,
@@ -28263,6 +29447,22 @@
       "timestamp": "2015-06-10T20:44:01",
       "provider": "exif",
       "reference_file": "IMG_20150610_164405.jpg"
+    },
+    {
+      "latitude": 40.95194444444445,
+      "longitude": -74.8963888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T20:45:38",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_164459.jpg"
+    },
+    {
+      "latitude": 40.780555555555551,
+      "longitude": -74.684444444444438,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T20:49:18",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_164914.jpg"
     },
     {
       "latitude": 40.813055555555557,
@@ -28487,6 +29687,62 @@
       "timestamp": "2015-06-10T20:55:24",
       "provider": "exif",
       "reference_file": "IMG_20150610_165535.jpg"
+    },
+    {
+      "latitude": 40.979444444444439,
+      "longitude": -75.105277777777772,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T21:02:49",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_170232.jpg"
+    },
+    {
+      "latitude": 40.976111111111109,
+      "longitude": -75.146944444444443,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T21:03:49",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_170256.jpg"
+    },
+    {
+      "latitude": 41.018333333333331,
+      "longitude": -75.1511111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T21:05:06",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_170444.jpg"
+    },
+    {
+      "latitude": 41.0075,
+      "longitude": -75.204444444444448,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T21:13:23",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_171300.jpg"
+    },
+    {
+      "latitude": 41.009444444444448,
+      "longitude": -75.211944444444441,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T21:16:10",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_171606.jpg"
+    },
+    {
+      "latitude": 41.029722222222226,
+      "longitude": -75.275277777777788,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T21:17:49",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_171634.jpg"
+    },
+    {
+      "latitude": 41.029722222222226,
+      "longitude": -75.275555555555556,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T21:18:28",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_171756.jpg"
     },
     {
       "latitude": 41.027222222222221,
@@ -29305,6 +30561,62 @@
       "reference_file": "IMG_20150610_173239.jpg"
     },
     {
+      "latitude": 41.047222222222224,
+      "longitude": -74.675277777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T21:33:44",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_173346.jpg"
+    },
+    {
+      "latitude": 41.106111111111105,
+      "longitude": -74.69638888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T21:35:22",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_173519.jpg"
+    },
+    {
+      "latitude": 41.143333333333331,
+      "longitude": -74.610833333333332,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T21:37:09",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_173704.jpg"
+    },
+    {
+      "latitude": 40.948888888888888,
+      "longitude": -74.49722222222222,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T21:38:15",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_173808.jpg"
+    },
+    {
+      "latitude": 41.151111111111106,
+      "longitude": -74.61388888888888,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T21:39:33",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_173834.jpg"
+    },
+    {
+      "latitude": 41.146388888888886,
+      "longitude": -74.736666666666665,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T21:43:43",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_174331.jpg"
+    },
+    {
+      "latitude": 41.245,
+      "longitude": -74.831666666666663,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T21:44:45",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_174401.jpg"
+    },
+    {
       "latitude": 41.303055555555559,
       "longitude": -75.0425,
       "altitude": 0.0,
@@ -29479,6 +30791,14 @@
       "timestamp": "2015-06-10T21:52:09",
       "provider": "exif",
       "reference_file": "IMG_20150610_175314.jpg"
+    },
+    {
+      "latitude": 41.492777777777775,
+      "longitude": -75.075555555555553,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T21:53:43",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_175318.jpg"
     },
     {
       "latitude": 41.447222222222216,
@@ -29689,6 +31009,62 @@
       "reference_file": "IMG_20150610_175639.jpg"
     },
     {
+      "latitude": 41.444722222222218,
+      "longitude": -75.075555555555553,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T21:55:13",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_175723.jpg"
+    },
+    {
+      "latitude": 41.248055555555553,
+      "longitude": -75.13,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T23:14:07",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_191446.jpg"
+    },
+    {
+      "latitude": 41.248055555555553,
+      "longitude": -75.13,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T23:14:07",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_191511.jpg"
+    },
+    {
+      "latitude": 41.248055555555553,
+      "longitude": -75.13,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T23:14:07",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_191533.jpg"
+    },
+    {
+      "latitude": 41.248055555555553,
+      "longitude": -75.13,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T23:14:07",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_191554.jpg"
+    },
+    {
+      "latitude": 41.333055555555553,
+      "longitude": -75.139722222222218,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T23:17:15",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_191633.jpg"
+    },
+    {
+      "latitude": 41.348055555555561,
+      "longitude": -75.079166666666666,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T23:18:23",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_191747.jpg"
+    },
+    {
       "latitude": 41.446111111111108,
       "longitude": -75.016944444444448,
       "altitude": 0.0,
@@ -29703,6 +31079,22 @@
       "timestamp": "2015-06-10T23:19:03",
       "provider": "exif",
       "reference_file": "IMG_20150610_191955.jpg"
+    },
+    {
+      "latitude": 41.403055555555554,
+      "longitude": -75.047777777777782,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T23:20:25",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_191958.jpg"
+    },
+    {
+      "latitude": 41.400277777777781,
+      "longitude": -75.04805555555555,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T23:20:26",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_192028.jpg"
     },
     {
       "latitude": 41.487222222222222,
@@ -29767,6 +31159,30 @@
       "timestamp": "2015-06-10T23:23:05",
       "provider": "exif",
       "reference_file": "IMG_20150610_192358.jpg"
+    },
+    {
+      "latitude": 41.649444444444448,
+      "longitude": -75.065555555555548,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T23:31:59",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_193200.jpg"
+    },
+    {
+      "latitude": 41.831111111111113,
+      "longitude": -74.815,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T23:37:46",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_193735.jpg"
+    },
+    {
+      "latitude": 41.831944444444446,
+      "longitude": -74.80083333333333,
+      "altitude": 0.0,
+      "timestamp": "2015-06-10T23:37:59",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_193759.jpg"
     },
     {
       "latitude": 41.820833333333333,
@@ -29879,6 +31295,54 @@
       "timestamp": "2015-06-11T00:42:30",
       "provider": "exif",
       "reference_file": "IMG_20150610_204234.jpg"
+    },
+    {
+      "latitude": 41.570555555555551,
+      "longitude": -74.5325,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T00:42:49",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_204239.jpg"
+    },
+    {
+      "latitude": 41.563055555555557,
+      "longitude": -74.536111111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T00:43:11",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_204306.jpg"
+    },
+    {
+      "latitude": 41.562777777777775,
+      "longitude": -74.536666666666662,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T00:43:50",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_204337.jpg"
+    },
+    {
+      "latitude": 41.547777777777782,
+      "longitude": -74.545277777777784,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T00:53:11",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_205235.jpg"
+    },
+    {
+      "latitude": 41.4825,
+      "longitude": -74.631388888888893,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T00:53:30",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_205317.jpg"
+    },
+    {
+      "latitude": 41.5025,
+      "longitude": -74.568333333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T00:54:51",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_205347.jpg"
     },
     {
       "latitude": 41.395833333333329,
@@ -31567,6 +33031,14 @@
       "timestamp": "2015-06-11T02:08:51",
       "provider": "exif",
       "reference_file": "IMG_20150610_220909.jpg"
+    },
+    {
+      "latitude": 41.556666666666665,
+      "longitude": -74.233888888888885,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T02:08:51",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_220824.jpg"
     },
     {
       "latitude": 41.557222222222222,
@@ -33305,6 +34777,14 @@
       "reference_file": "IMG_20150610_224022.jpg"
     },
     {
+      "latitude": 41.430833333333332,
+      "longitude": -74.3575,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T02:47:08",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_224654.jpg"
+    },
+    {
       "latitude": 41.455833333333331,
       "longitude": -74.366388888888892,
       "altitude": 0.0,
@@ -33463,6 +34943,14 @@
       "timestamp": "2015-06-11T03:03:47",
       "provider": "exif",
       "reference_file": "IMG_20150610_230352.jpg"
+    },
+    {
+      "latitude": 41.395555555555553,
+      "longitude": -74.259444444444441,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T03:04:19",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_230356.jpg"
     },
     {
       "latitude": 41.38194444444445,
@@ -34391,6 +35879,38 @@
       "timestamp": "2015-06-11T03:16:54",
       "provider": "exif",
       "reference_file": "IMG_20150610_231702.jpg"
+    },
+    {
+      "latitude": 41.408611111111107,
+      "longitude": -74.2063888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T03:18:01",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_231728.jpg"
+    },
+    {
+      "latitude": 41.408333333333331,
+      "longitude": -74.204444444444448,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T03:18:41",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_231815.jpg"
+    },
+    {
+      "latitude": 41.406111111111109,
+      "longitude": -74.203333333333333,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T03:19:19",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_231853.jpg"
+    },
+    {
+      "latitude": 41.53,
+      "longitude": -74.117777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T03:27:49",
+      "provider": "exif",
+      "reference_file": "PANO_20150610_232749.jpg"
     },
     {
       "latitude": 41.513333333333328,
@@ -36177,6 +37697,22 @@
       "reference_file": "IMG_20150611_123641.jpg"
     },
     {
+      "latitude": 41.585833333333333,
+      "longitude": -74.99666666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T17:18:35",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_131840.jpg"
+    },
+    {
+      "latitude": 41.590833333333329,
+      "longitude": -75.003611111111113,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T17:18:44",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_131853.jpg"
+    },
+    {
       "latitude": 41.593055555555559,
       "longitude": -75.00277777777778,
       "altitude": 0.0,
@@ -36503,6 +38039,46 @@
       "timestamp": "2015-06-11T22:25:56",
       "provider": "exif",
       "reference_file": "IMG_20150611_182601.jpg"
+    },
+    {
+      "latitude": 40.788888888888884,
+      "longitude": -74.431666666666658,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T22:25:56",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_182605.jpg"
+    },
+    {
+      "latitude": 40.788888888888884,
+      "longitude": -74.431666666666658,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T22:25:56",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_182628.jpg"
+    },
+    {
+      "latitude": 42.37,
+      "longitude": -74.417777777777772,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T22:28:25",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_182800.jpg"
+    },
+    {
+      "latitude": 42.371111111111112,
+      "longitude": -74.406666666666666,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T22:29:05",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_182845.jpg"
+    },
+    {
+      "latitude": 42.363888888888894,
+      "longitude": -74.417222222222222,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T22:30:10",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_182928.jpg"
     },
     {
       "latitude": 42.357222222222219,
@@ -36873,6 +38449,14 @@
       "reference_file": "IMG_20150611_195344.jpg"
     },
     {
+      "latitude": 40.803333333333335,
+      "longitude": -74.44083333333333,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T23:54:23",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_195350.jpg"
+    },
+    {
       "latitude": 40.808055555555555,
       "longitude": -74.44,
       "altitude": 0.0,
@@ -36943,6 +38527,46 @@
       "timestamp": "2015-06-11T23:55:52",
       "provider": "exif",
       "reference_file": "IMG_20150611_195608.jpg"
+    },
+    {
+      "latitude": 42.226944444444442,
+      "longitude": -74.5286111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T23:59:14",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_195858.jpg"
+    },
+    {
+      "latitude": 42.225555555555559,
+      "longitude": -74.526666666666671,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T23:59:17",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_195918.jpg"
+    },
+    {
+      "latitude": 40.741944444444442,
+      "longitude": -75.348333333333329,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T00:34:53",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_203442.jpg"
+    },
+    {
+      "latitude": 40.735555555555557,
+      "longitude": -75.317777777777778,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T00:35:16",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_203506.jpg"
+    },
+    {
+      "latitude": 40.739444444444445,
+      "longitude": -75.316111111111113,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T00:35:38",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_203530.jpg"
     },
     {
       "latitude": 42.347777777777779,
@@ -37793,6 +39417,62 @@
       "reference_file": "IMG_20150611_210225.jpg"
     },
     {
+      "latitude": 41.778888888888886,
+      "longitude": -74.75055555555555,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T01:19:10",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_211815.jpg"
+    },
+    {
+      "latitude": 41.7775,
+      "longitude": -74.761944444444453,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T01:19:51",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_211915.jpg"
+    },
+    {
+      "latitude": 41.7825,
+      "longitude": -74.772500000000008,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T01:21:20",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_212055.jpg"
+    },
+    {
+      "latitude": 41.864444444444445,
+      "longitude": -74.899166666666673,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T01:30:23",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_212919.jpg"
+    },
+    {
+      "latitude": 41.863611111111112,
+      "longitude": -74.900277777777788,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T01:31:25",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_213058.jpg"
+    },
+    {
+      "latitude": 41.949722222222228,
+      "longitude": -75.095555555555563,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T01:35:16",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_213512.jpg"
+    },
+    {
+      "latitude": 41.862222222222222,
+      "longitude": -75.158611111111114,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T01:38:22",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_213732.jpg"
+    },
+    {
       "latitude": 41.863333333333337,
       "longitude": -75.158888888888882,
       "altitude": 0.0,
@@ -37919,6 +39599,14 @@
       "timestamp": "2015-06-12T01:42:18",
       "provider": "exif",
       "reference_file": "IMG_20150611_214230.jpg"
+    },
+    {
+      "latitude": 41.9875,
+      "longitude": -75.331666666666663,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T01:42:57",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_214234.jpg"
     },
     {
       "latitude": 41.984722222222217,
@@ -38263,6 +39951,30 @@
       "timestamp": "2015-06-12T01:48:57",
       "provider": "exif",
       "reference_file": "IMG_20150611_214914.jpg"
+    },
+    {
+      "latitude": 41.827777777777776,
+      "longitude": -75.18416666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T01:53:38",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_215322.jpg"
+    },
+    {
+      "latitude": 42.111388888888882,
+      "longitude": -74.095,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T01:54:10",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_215349.jpg"
+    },
+    {
+      "latitude": 42.145,
+      "longitude": -74.14222222222223,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T01:55:31",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_215527.jpg"
     },
     {
       "latitude": 42.139166666666668,
@@ -39913,6 +41625,14 @@
       "reference_file": "IMG_20150611_233244.jpg"
     },
     {
+      "latitude": 41.505555555555553,
+      "longitude": -74.678055555555559,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T03:37:07",
+      "provider": "exif",
+      "reference_file": "PANO_20150611_233705.jpg"
+    },
+    {
       "latitude": 41.509444444444448,
       "longitude": -74.663888888888891,
       "altitude": 0.0,
@@ -40055,6 +41775,38 @@
       "timestamp": "2015-06-12T03:37:45",
       "provider": "exif",
       "reference_file": "IMG_20150611_235247.jpg"
+    },
+    {
+      "latitude": 41.024166666666666,
+      "longitude": -74.768611111111113,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T04:20:09",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_001911.jpg"
+    },
+    {
+      "latitude": 41.031944444444441,
+      "longitude": -74.7811111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T04:20:48",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_002016.jpg"
+    },
+    {
+      "latitude": 41.096388888888889,
+      "longitude": -74.8775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T04:23:17",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_002058.jpg"
+    },
+    {
+      "latitude": 41.1025,
+      "longitude": -74.956388888888881,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T04:25:20",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_002329.jpg"
     },
     {
       "latitude": 41.112777777777779,
@@ -40823,6 +42575,3118 @@
       "timestamp": "2015-06-12T17:58:06",
       "provider": "exif",
       "reference_file": "IMG_20150612_140158.jpg"
+    },
+    {
+      "latitude": 41.645277777777771,
+      "longitude": -75.503611111111113,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T17:58:06",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_140208.jpg"
+    },
+    {
+      "latitude": 41.645277777777771,
+      "longitude": -75.503611111111113,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T17:58:06",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_140209.jpg"
+    },
+    {
+      "latitude": 41.645277777777771,
+      "longitude": -75.503611111111113,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T17:58:06",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_140210.jpg"
+    },
+    {
+      "latitude": 41.645277777777771,
+      "longitude": -75.503611111111113,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T17:58:06",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_140210_1.jpg"
+    },
+    {
+      "latitude": 41.645277777777771,
+      "longitude": -75.503611111111113,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T17:58:06",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_140211.jpg"
+    },
+    {
+      "latitude": 41.622499999999995,
+      "longitude": -75.485,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:02:00",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_170149.jpg"
+    },
+    {
+      "latitude": 41.622499999999995,
+      "longitude": -75.485,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:02:00",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_170205.jpg"
+    },
+    {
+      "latitude": 41.638333333333328,
+      "longitude": -75.513888888888886,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:02:24",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_170220.jpg"
+    },
+    {
+      "latitude": 41.583611111111111,
+      "longitude": -75.518888888888881,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:03:23",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_170255.jpg"
+    },
+    {
+      "latitude": 41.585277777777776,
+      "longitude": -75.509444444444441,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:03:43",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_170328.jpg"
+    },
+    {
+      "latitude": 41.585277777777776,
+      "longitude": -75.509444444444441,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:03:43",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_170402.jpg"
+    },
+    {
+      "latitude": 41.410555555555561,
+      "longitude": -75.134444444444441,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:09:16",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_170850.jpg"
+    },
+    {
+      "latitude": 41.383333333333333,
+      "longitude": -75.053055555555559,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:10:58",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_171034.jpg"
+    },
+    {
+      "latitude": 41.377222222222215,
+      "longitude": -75.040833333333339,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:11:18",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_171111.jpg"
+    },
+    {
+      "latitude": 41.330833333333331,
+      "longitude": -74.9775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:13:06",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_171301.jpg"
+    },
+    {
+      "latitude": 41.324999999999996,
+      "longitude": -74.963055555555556,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:13:56",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_171334.jpg"
+    },
+    {
+      "latitude": 41.326666666666668,
+      "longitude": -74.963333333333324,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:14:58",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171509.jpg"
+    },
+    {
+      "latitude": 41.326666666666668,
+      "longitude": -74.963333333333324,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:14:58",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171510.jpg"
+    },
+    {
+      "latitude": 41.326666666666668,
+      "longitude": -74.963333333333324,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:14:58",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171512.jpg"
+    },
+    {
+      "latitude": 41.326666666666668,
+      "longitude": -74.963333333333324,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:14:58",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171514.jpg"
+    },
+    {
+      "latitude": 41.326666666666668,
+      "longitude": -74.963333333333324,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:14:58",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171515.jpg"
+    },
+    {
+      "latitude": 41.326944444444443,
+      "longitude": -74.9636111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171516.jpg"
+    },
+    {
+      "latitude": 41.326944444444443,
+      "longitude": -74.9636111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171517.jpg"
+    },
+    {
+      "latitude": 41.326944444444443,
+      "longitude": -74.9636111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171521.jpg"
+    },
+    {
+      "latitude": 41.326944444444443,
+      "longitude": -74.9636111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171522.jpg"
+    },
+    {
+      "latitude": 41.326944444444443,
+      "longitude": -74.9636111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171525.jpg"
+    },
+    {
+      "latitude": 41.326944444444443,
+      "longitude": -74.9636111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171528.jpg"
+    },
+    {
+      "latitude": 41.326944444444443,
+      "longitude": -74.9636111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171529.jpg"
+    },
+    {
+      "latitude": 41.326944444444443,
+      "longitude": -74.9636111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171530.jpg"
+    },
+    {
+      "latitude": 41.326944444444443,
+      "longitude": -74.9636111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171530_1.jpg"
+    },
+    {
+      "latitude": 41.326944444444443,
+      "longitude": -74.9636111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171531.jpg"
+    },
+    {
+      "latitude": 41.326944444444443,
+      "longitude": -74.9636111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171532.jpg"
+    },
+    {
+      "latitude": 41.326944444444443,
+      "longitude": -74.9636111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171533.jpg"
+    },
+    {
+      "latitude": 41.326944444444443,
+      "longitude": -74.9636111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171533_1.jpg"
+    },
+    {
+      "latitude": 41.313333333333333,
+      "longitude": -74.987777777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171536.jpg"
+    },
+    {
+      "latitude": 41.313333333333333,
+      "longitude": -74.987777777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171537.jpg"
+    },
+    {
+      "latitude": 41.313333333333333,
+      "longitude": -74.987777777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171537_1.jpg"
+    },
+    {
+      "latitude": 41.313333333333333,
+      "longitude": -74.987777777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171539.jpg"
+    },
+    {
+      "latitude": 41.313333333333333,
+      "longitude": -74.987777777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171541.jpg"
+    },
+    {
+      "latitude": 41.313333333333333,
+      "longitude": -74.987777777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171542.jpg"
+    },
+    {
+      "latitude": 41.313333333333333,
+      "longitude": -74.987777777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171543.jpg"
+    },
+    {
+      "latitude": 41.313333333333333,
+      "longitude": -74.987777777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171545.jpg"
+    },
+    {
+      "latitude": 41.313333333333333,
+      "longitude": -74.987777777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171546.jpg"
+    },
+    {
+      "latitude": 41.313333333333333,
+      "longitude": -74.987777777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171547.jpg"
+    },
+    {
+      "latitude": 41.313333333333333,
+      "longitude": -74.987777777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171548.jpg"
+    },
+    {
+      "latitude": 41.313333333333333,
+      "longitude": -74.987777777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171549.jpg"
+    },
+    {
+      "latitude": 41.313333333333333,
+      "longitude": -74.987777777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171550.jpg"
+    },
+    {
+      "latitude": 41.313333333333333,
+      "longitude": -74.987777777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171551.jpg"
+    },
+    {
+      "latitude": 41.313333333333333,
+      "longitude": -74.987777777777779,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171552.jpg"
+    },
+    {
+      "latitude": 41.323055555555555,
+      "longitude": -74.968055555555551,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171557.jpg"
+    },
+    {
+      "latitude": 41.323055555555555,
+      "longitude": -74.968055555555551,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171558.jpg"
+    },
+    {
+      "latitude": 41.323055555555555,
+      "longitude": -74.968055555555551,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171559.jpg"
+    },
+    {
+      "latitude": 41.323055555555555,
+      "longitude": -74.968055555555551,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171600.jpg"
+    },
+    {
+      "latitude": 41.323055555555555,
+      "longitude": -74.968055555555551,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171602.jpg"
+    },
+    {
+      "latitude": 41.323055555555555,
+      "longitude": -74.968055555555551,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171603.jpg"
+    },
+    {
+      "latitude": 41.323055555555555,
+      "longitude": -74.968055555555551,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171610.jpg"
+    },
+    {
+      "latitude": 41.323055555555555,
+      "longitude": -74.968055555555551,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171611.jpg"
+    },
+    {
+      "latitude": 41.323055555555555,
+      "longitude": -74.968055555555551,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171612.jpg"
+    },
+    {
+      "latitude": 41.323055555555555,
+      "longitude": -74.968055555555551,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171613.jpg"
+    },
+    {
+      "latitude": 41.323055555555555,
+      "longitude": -74.968055555555551,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:15:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171613_1.jpg"
+    },
+    {
+      "latitude": 41.333611111111111,
+      "longitude": -74.955277777777766,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:15",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171634.jpg"
+    },
+    {
+      "latitude": 41.333611111111111,
+      "longitude": -74.955277777777766,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:15",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171635.jpg"
+    },
+    {
+      "latitude": 41.335833333333333,
+      "longitude": -74.961111111111109,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:38",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171641.jpg"
+    },
+    {
+      "latitude": 41.335833333333333,
+      "longitude": -74.961111111111109,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:38",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171643.jpg"
+    },
+    {
+      "latitude": 41.335833333333333,
+      "longitude": -74.961111111111109,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:38",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171644.jpg"
+    },
+    {
+      "latitude": 41.335833333333333,
+      "longitude": -74.961111111111109,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:38",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171649.jpg"
+    },
+    {
+      "latitude": 41.335833333333333,
+      "longitude": -74.961111111111109,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:38",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171650.jpg"
+    },
+    {
+      "latitude": 41.335833333333333,
+      "longitude": -74.961111111111109,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:38",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171650_1.jpg"
+    },
+    {
+      "latitude": 41.335833333333333,
+      "longitude": -74.961111111111109,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:38",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171651.jpg"
+    },
+    {
+      "latitude": 41.335833333333333,
+      "longitude": -74.961111111111109,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:38",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171652.jpg"
+    },
+    {
+      "latitude": 41.335833333333333,
+      "longitude": -74.961111111111109,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:38",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171653.jpg"
+    },
+    {
+      "latitude": 41.335833333333333,
+      "longitude": -74.961111111111109,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:38",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171655.jpg"
+    },
+    {
+      "latitude": 41.335833333333333,
+      "longitude": -74.961111111111109,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:38",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171656.jpg"
+    },
+    {
+      "latitude": 41.331388888888888,
+      "longitude": -74.955,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171656_1.jpg"
+    },
+    {
+      "latitude": 41.331388888888888,
+      "longitude": -74.955,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171659.jpg"
+    },
+    {
+      "latitude": 41.331388888888888,
+      "longitude": -74.955,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171700.jpg"
+    },
+    {
+      "latitude": 41.331388888888888,
+      "longitude": -74.955,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171702.jpg"
+    },
+    {
+      "latitude": 41.331388888888888,
+      "longitude": -74.955,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171703.jpg"
+    },
+    {
+      "latitude": 41.331388888888888,
+      "longitude": -74.955,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171704.jpg"
+    },
+    {
+      "latitude": 41.331388888888888,
+      "longitude": -74.955,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171705.jpg"
+    },
+    {
+      "latitude": 41.331388888888888,
+      "longitude": -74.955,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171706.jpg"
+    },
+    {
+      "latitude": 41.331388888888888,
+      "longitude": -74.955,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:16:56",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_171711.jpg"
+    },
+    {
+      "latitude": 41.3225,
+      "longitude": -74.964166666666671,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:18:17",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_171814.jpg"
+    },
+    {
+      "latitude": 41.223055555555561,
+      "longitude": -74.916388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:19:55",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_171950.jpg"
+    },
+    {
+      "latitude": 41.168333333333337,
+      "longitude": -74.845277777777781,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:21:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172142.jpg"
+    },
+    {
+      "latitude": 41.168333333333337,
+      "longitude": -74.845277777777781,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:21:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172143.jpg"
+    },
+    {
+      "latitude": 41.168333333333337,
+      "longitude": -74.845277777777781,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:21:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172146.jpg"
+    },
+    {
+      "latitude": 41.168333333333337,
+      "longitude": -74.845277777777781,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:21:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172147.jpg"
+    },
+    {
+      "latitude": 41.168333333333337,
+      "longitude": -74.845277777777781,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:21:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172148.jpg"
+    },
+    {
+      "latitude": 41.168333333333337,
+      "longitude": -74.845277777777781,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:21:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172149.jpg"
+    },
+    {
+      "latitude": 41.168333333333337,
+      "longitude": -74.845277777777781,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:21:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172151.jpg"
+    },
+    {
+      "latitude": 41.168333333333337,
+      "longitude": -74.845277777777781,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:21:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172152.jpg"
+    },
+    {
+      "latitude": 41.168333333333337,
+      "longitude": -74.845277777777781,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:21:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172154.jpg"
+    },
+    {
+      "latitude": 41.168333333333337,
+      "longitude": -74.845277777777781,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:21:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172155.jpg"
+    },
+    {
+      "latitude": 41.169166666666662,
+      "longitude": -74.847222222222229,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:22:52",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172258.jpg"
+    },
+    {
+      "latitude": 41.169166666666662,
+      "longitude": -74.847222222222229,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:22:52",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172259.jpg"
+    },
+    {
+      "latitude": 41.169166666666662,
+      "longitude": -74.847222222222229,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:22:52",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172300.jpg"
+    },
+    {
+      "latitude": 41.169166666666662,
+      "longitude": -74.847222222222229,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:22:52",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172301.jpg"
+    },
+    {
+      "latitude": 41.173611111111114,
+      "longitude": -74.770833333333329,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:23:32",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_172320.jpg"
+    },
+    {
+      "latitude": 41.163055555555559,
+      "longitude": -74.766388888888883,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:11",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172429.jpg"
+    },
+    {
+      "latitude": 41.161388888888887,
+      "longitude": -74.766111111111115,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:31",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172435.jpg"
+    },
+    {
+      "latitude": 41.161388888888887,
+      "longitude": -74.766111111111115,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:31",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172443.jpg"
+    },
+    {
+      "latitude": 41.161388888888887,
+      "longitude": -74.766111111111115,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:31",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172446.jpg"
+    },
+    {
+      "latitude": 41.161388888888887,
+      "longitude": -74.766111111111115,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:31",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172447.jpg"
+    },
+    {
+      "latitude": 41.161388888888887,
+      "longitude": -74.766111111111115,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:31",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172449.jpg"
+    },
+    {
+      "latitude": 41.161388888888887,
+      "longitude": -74.766111111111115,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:31",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172450.jpg"
+    },
+    {
+      "latitude": 41.158333333333331,
+      "longitude": -74.764166666666668,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172451.jpg"
+    },
+    {
+      "latitude": 41.158333333333331,
+      "longitude": -74.764166666666668,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172452.jpg"
+    },
+    {
+      "latitude": 41.158333333333331,
+      "longitude": -74.764166666666668,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172453.jpg"
+    },
+    {
+      "latitude": 41.158333333333331,
+      "longitude": -74.764166666666668,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172455.jpg"
+    },
+    {
+      "latitude": 41.158333333333331,
+      "longitude": -74.764166666666668,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172456.jpg"
+    },
+    {
+      "latitude": 41.158333333333331,
+      "longitude": -74.764166666666668,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172459.jpg"
+    },
+    {
+      "latitude": 41.158333333333331,
+      "longitude": -74.764166666666668,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172500.jpg"
+    },
+    {
+      "latitude": 41.158333333333331,
+      "longitude": -74.764166666666668,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172501.jpg"
+    },
+    {
+      "latitude": 41.158333333333331,
+      "longitude": -74.764166666666668,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172502.jpg"
+    },
+    {
+      "latitude": 41.158333333333331,
+      "longitude": -74.764166666666668,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172506.jpg"
+    },
+    {
+      "latitude": 41.158333333333331,
+      "longitude": -74.764166666666668,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172507.jpg"
+    },
+    {
+      "latitude": 41.158333333333331,
+      "longitude": -74.764166666666668,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172509.jpg"
+    },
+    {
+      "latitude": 41.158333333333331,
+      "longitude": -74.764166666666668,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172509_1.jpg"
+    },
+    {
+      "latitude": 41.158333333333331,
+      "longitude": -74.764166666666668,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:24:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172511.jpg"
+    },
+    {
+      "latitude": 41.154722222222226,
+      "longitude": -74.760833333333338,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172513.jpg"
+    },
+    {
+      "latitude": 41.154722222222226,
+      "longitude": -74.760833333333338,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172515.jpg"
+    },
+    {
+      "latitude": 41.154722222222226,
+      "longitude": -74.760833333333338,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172516.jpg"
+    },
+    {
+      "latitude": 41.154722222222226,
+      "longitude": -74.760833333333338,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172516_1.jpg"
+    },
+    {
+      "latitude": 41.154722222222226,
+      "longitude": -74.760833333333338,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172519.jpg"
+    },
+    {
+      "latitude": 41.154722222222226,
+      "longitude": -74.760833333333338,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172522.jpg"
+    },
+    {
+      "latitude": 41.154722222222226,
+      "longitude": -74.760833333333338,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172527.jpg"
+    },
+    {
+      "latitude": 41.154722222222226,
+      "longitude": -74.760833333333338,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172529.jpg"
+    },
+    {
+      "latitude": 41.154722222222226,
+      "longitude": -74.760833333333338,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172530.jpg"
+    },
+    {
+      "latitude": 41.154722222222226,
+      "longitude": -74.760833333333338,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172531.jpg"
+    },
+    {
+      "latitude": 41.154722222222226,
+      "longitude": -74.760833333333338,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172534.jpg"
+    },
+    {
+      "latitude": 41.154722222222226,
+      "longitude": -74.760833333333338,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172537.jpg"
+    },
+    {
+      "latitude": 41.154722222222226,
+      "longitude": -74.760833333333338,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172540.jpg"
+    },
+    {
+      "latitude": 41.154722222222226,
+      "longitude": -74.760833333333338,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172541.jpg"
+    },
+    {
+      "latitude": 41.154722222222226,
+      "longitude": -74.760833333333338,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172542.jpg"
+    },
+    {
+      "latitude": 41.162777777777777,
+      "longitude": -74.759999999999991,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172548.jpg"
+    },
+    {
+      "latitude": 41.162777777777777,
+      "longitude": -74.759999999999991,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172552.jpg"
+    },
+    {
+      "latitude": 41.162777777777777,
+      "longitude": -74.759999999999991,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172553.jpg"
+    },
+    {
+      "latitude": 41.162777777777777,
+      "longitude": -74.759999999999991,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172554.jpg"
+    },
+    {
+      "latitude": 41.162777777777777,
+      "longitude": -74.759999999999991,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172600.jpg"
+    },
+    {
+      "latitude": 41.162777777777777,
+      "longitude": -74.759999999999991,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:25:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172602.jpg"
+    },
+    {
+      "latitude": 41.154444444444444,
+      "longitude": -74.761388888888888,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:02",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172605.jpg"
+    },
+    {
+      "latitude": 41.154444444444444,
+      "longitude": -74.761388888888888,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:02",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172607.jpg"
+    },
+    {
+      "latitude": 41.154444444444444,
+      "longitude": -74.761388888888888,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:02",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172609.jpg"
+    },
+    {
+      "latitude": 41.154444444444444,
+      "longitude": -74.761388888888888,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:02",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172610.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.758611111111108,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:24",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172633.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.758611111111108,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:24",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172634.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.758611111111108,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:24",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172637.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.758611111111108,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:24",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172638.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.758611111111108,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:24",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172639.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.758611111111108,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:24",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172640.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.758611111111108,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:24",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172641.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.758611111111108,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:24",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172641_1.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.760277777777773,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172643.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.760277777777773,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172645.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.760277777777773,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172646.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.760277777777773,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172646_1.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.760277777777773,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172647.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.760277777777773,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172648.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.760277777777773,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172649.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.760277777777773,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172650.jpg"
+    },
+    {
+      "latitude": 41.151388888888889,
+      "longitude": -74.760277777777773,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:26:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172650_1.jpg"
+    },
+    {
+      "latitude": 41.151666666666664,
+      "longitude": -74.759999999999991,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:27:04",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172710.jpg"
+    },
+    {
+      "latitude": 41.151666666666664,
+      "longitude": -74.759999999999991,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:27:04",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172713.jpg"
+    },
+    {
+      "latitude": 41.151666666666664,
+      "longitude": -74.759999999999991,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:27:04",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172718.jpg"
+    },
+    {
+      "latitude": 41.151666666666664,
+      "longitude": -74.759999999999991,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:27:04",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172719.jpg"
+    },
+    {
+      "latitude": 41.151666666666664,
+      "longitude": -74.759999999999991,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:27:04",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172721.jpg"
+    },
+    {
+      "latitude": 41.150277777777781,
+      "longitude": -74.757777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:27:43",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172750.jpg"
+    },
+    {
+      "latitude": 41.150277777777781,
+      "longitude": -74.757777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:27:43",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172751.jpg"
+    },
+    {
+      "latitude": 41.150277777777781,
+      "longitude": -74.757777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:27:43",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172752.jpg"
+    },
+    {
+      "latitude": 41.150277777777781,
+      "longitude": -74.757777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:27:43",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172754.jpg"
+    },
+    {
+      "latitude": 41.150277777777781,
+      "longitude": -74.757777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:27:43",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172755.jpg"
+    },
+    {
+      "latitude": 41.150277777777781,
+      "longitude": -74.757777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:27:43",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172756.jpg"
+    },
+    {
+      "latitude": 41.150277777777781,
+      "longitude": -74.757777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:27:43",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172759.jpg"
+    },
+    {
+      "latitude": 41.150277777777781,
+      "longitude": -74.757777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:27:43",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172800.jpg"
+    },
+    {
+      "latitude": 41.150277777777781,
+      "longitude": -74.757777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:27:43",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172801.jpg"
+    },
+    {
+      "latitude": 41.150000000000006,
+      "longitude": -74.760277777777773,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:28:01",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172802.jpg"
+    },
+    {
+      "latitude": 41.150000000000006,
+      "longitude": -74.760277777777773,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:28:01",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_172802_1.jpg"
+    },
+    {
+      "latitude": 41.007499999999993,
+      "longitude": -74.589722222222221,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:31:50",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173157.jpg"
+    },
+    {
+      "latitude": 41.007499999999993,
+      "longitude": -74.589722222222221,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:31:50",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173157_1.jpg"
+    },
+    {
+      "latitude": 40.989444444444445,
+      "longitude": -74.604444444444439,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:32:13",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173223.jpg"
+    },
+    {
+      "latitude": 40.989444444444445,
+      "longitude": -74.604444444444439,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:32:13",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173223_1.jpg"
+    },
+    {
+      "latitude": 40.989444444444445,
+      "longitude": -74.604444444444439,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:32:13",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173225.jpg"
+    },
+    {
+      "latitude": 40.989444444444445,
+      "longitude": -74.604444444444439,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:32:13",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173311.jpg"
+    },
+    {
+      "latitude": 40.989444444444445,
+      "longitude": -74.604444444444439,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:32:13",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173312.jpg"
+    },
+    {
+      "latitude": 41.019166666666671,
+      "longitude": -74.694166666666675,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:33:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173317.jpg"
+    },
+    {
+      "latitude": 41.016944444444448,
+      "longitude": -74.69361111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:33:27",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173329.jpg"
+    },
+    {
+      "latitude": 41.016944444444448,
+      "longitude": -74.69361111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:33:27",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173330.jpg"
+    },
+    {
+      "latitude": 41.016944444444448,
+      "longitude": -74.69361111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:33:27",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173331.jpg"
+    },
+    {
+      "latitude": 41.016944444444448,
+      "longitude": -74.69361111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:33:27",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173333.jpg"
+    },
+    {
+      "latitude": 41.016944444444448,
+      "longitude": -74.69361111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:33:27",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173334.jpg"
+    },
+    {
+      "latitude": 41.016944444444448,
+      "longitude": -74.69361111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:33:27",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173335.jpg"
+    },
+    {
+      "latitude": 41.016944444444448,
+      "longitude": -74.69361111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:33:27",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173337.jpg"
+    },
+    {
+      "latitude": 41.016944444444448,
+      "longitude": -74.69361111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:33:27",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173338.jpg"
+    },
+    {
+      "latitude": 41.016944444444448,
+      "longitude": -74.69361111111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:33:27",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173339.jpg"
+    },
+    {
+      "latitude": 41.018888888888888,
+      "longitude": -74.753611111111113,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:34:02",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173406.jpg"
+    },
+    {
+      "latitude": 41.018888888888888,
+      "longitude": -74.753611111111113,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:34:02",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173407.jpg"
+    },
+    {
+      "latitude": 41.018888888888888,
+      "longitude": -74.753611111111113,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:34:02",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173409.jpg"
+    },
+    {
+      "latitude": 41.018888888888888,
+      "longitude": -74.753611111111113,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:34:02",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173411.jpg"
+    },
+    {
+      "latitude": 41.018888888888888,
+      "longitude": -74.753611111111113,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:34:02",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173412.jpg"
+    },
+    {
+      "latitude": 41.040277777777781,
+      "longitude": -74.75277777777778,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:34:54",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173458.jpg"
+    },
+    {
+      "latitude": 41.040277777777781,
+      "longitude": -74.75277777777778,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:34:54",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173459.jpg"
+    },
+    {
+      "latitude": 41.040277777777781,
+      "longitude": -74.75277777777778,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:34:54",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173501.jpg"
+    },
+    {
+      "latitude": 41.040277777777781,
+      "longitude": -74.75277777777778,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:34:54",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173502.jpg"
+    },
+    {
+      "latitude": 41.040277777777781,
+      "longitude": -74.75277777777778,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:34:54",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173542.jpg"
+    },
+    {
+      "latitude": 41.040277777777781,
+      "longitude": -74.75277777777778,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:34:54",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173543.jpg"
+    },
+    {
+      "latitude": 41.042777777777779,
+      "longitude": -74.755833333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:35:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173544.jpg"
+    },
+    {
+      "latitude": 41.042777777777779,
+      "longitude": -74.755833333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:35:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173545.jpg"
+    },
+    {
+      "latitude": 41.042777777777779,
+      "longitude": -74.755833333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:35:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173547.jpg"
+    },
+    {
+      "latitude": 41.042777777777779,
+      "longitude": -74.755833333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:35:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173548.jpg"
+    },
+    {
+      "latitude": 41.042777777777779,
+      "longitude": -74.755833333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:35:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173550.jpg"
+    },
+    {
+      "latitude": 41.042777777777779,
+      "longitude": -74.755833333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:35:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173551.jpg"
+    },
+    {
+      "latitude": 41.042777777777779,
+      "longitude": -74.755833333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:35:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173552.jpg"
+    },
+    {
+      "latitude": 41.042777777777779,
+      "longitude": -74.755833333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:35:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173554.jpg"
+    },
+    {
+      "latitude": 41.042777777777779,
+      "longitude": -74.755833333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:35:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173555.jpg"
+    },
+    {
+      "latitude": 41.042777777777779,
+      "longitude": -74.755833333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:35:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173555_1.jpg"
+    },
+    {
+      "latitude": 41.042777777777779,
+      "longitude": -74.755833333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:35:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173558.jpg"
+    },
+    {
+      "latitude": 41.042777777777779,
+      "longitude": -74.755833333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:35:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173558_1.jpg"
+    },
+    {
+      "latitude": 41.042777777777779,
+      "longitude": -74.755833333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:35:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173559.jpg"
+    },
+    {
+      "latitude": 41.042777777777779,
+      "longitude": -74.755833333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:35:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173600.jpg"
+    },
+    {
+      "latitude": 41.042777777777779,
+      "longitude": -74.755833333333328,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:35:44",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173601.jpg"
+    },
+    {
+      "latitude": 41.045833333333334,
+      "longitude": -74.757777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:36:02",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173602.jpg"
+    },
+    {
+      "latitude": 41.045833333333334,
+      "longitude": -74.757777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:36:02",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173603.jpg"
+    },
+    {
+      "latitude": 41.045833333333334,
+      "longitude": -74.757777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:36:02",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173605.jpg"
+    },
+    {
+      "latitude": 41.045833333333334,
+      "longitude": -74.757777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:36:02",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173606.jpg"
+    },
+    {
+      "latitude": 41.045833333333334,
+      "longitude": -74.757777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:36:02",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173607.jpg"
+    },
+    {
+      "latitude": 41.045833333333334,
+      "longitude": -74.757777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:36:02",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173608.jpg"
+    },
+    {
+      "latitude": 41.045833333333334,
+      "longitude": -74.757777777777775,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:36:02",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173609.jpg"
+    },
+    {
+      "latitude": 41.102222222222224,
+      "longitude": -74.88388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:37:09",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173712.jpg"
+    },
+    {
+      "latitude": 41.102222222222224,
+      "longitude": -74.88388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:37:09",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173712_1.jpg"
+    },
+    {
+      "latitude": 41.1025,
+      "longitude": -74.88388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:37:09",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_173718.jpg"
+    },
+    {
+      "latitude": 41.117777777777775,
+      "longitude": -74.890277777777769,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:37:59",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173810.jpg"
+    },
+    {
+      "latitude": 41.117777777777775,
+      "longitude": -74.890277777777769,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:37:59",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173812.jpg"
+    },
+    {
+      "latitude": 41.117777777777775,
+      "longitude": -74.890277777777769,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:37:59",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173813.jpg"
+    },
+    {
+      "latitude": 41.117777777777775,
+      "longitude": -74.890277777777769,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:37:59",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173815.jpg"
+    },
+    {
+      "latitude": 41.117777777777775,
+      "longitude": -74.890277777777769,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:37:59",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173816.jpg"
+    },
+    {
+      "latitude": 41.117777777777775,
+      "longitude": -74.890277777777769,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:37:59",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173817.jpg"
+    },
+    {
+      "latitude": 41.123333333333335,
+      "longitude": -74.8925,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:38:19",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173821.jpg"
+    },
+    {
+      "latitude": 41.123333333333335,
+      "longitude": -74.8925,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:38:19",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173822.jpg"
+    },
+    {
+      "latitude": 41.123333333333335,
+      "longitude": -74.8925,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:38:19",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173838.jpg"
+    },
+    {
+      "latitude": 41.126666666666672,
+      "longitude": -74.903888888888886,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:38:38",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_173840.jpg"
+    },
+    {
+      "latitude": 41.132777777777775,
+      "longitude": -74.907777777777781,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:39:21",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_173921.jpg"
+    },
+    {
+      "latitude": 41.243333333333332,
+      "longitude": -75.056666666666658,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:42:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174226.jpg"
+    },
+    {
+      "latitude": 41.243333333333332,
+      "longitude": -75.056666666666658,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:42:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174227.jpg"
+    },
+    {
+      "latitude": 41.243333333333332,
+      "longitude": -75.056666666666658,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:42:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174230.jpg"
+    },
+    {
+      "latitude": 41.243333333333332,
+      "longitude": -75.056666666666658,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:42:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174232.jpg"
+    },
+    {
+      "latitude": 41.243333333333332,
+      "longitude": -75.056666666666658,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:42:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174233.jpg"
+    },
+    {
+      "latitude": 41.243333333333332,
+      "longitude": -75.056666666666658,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:42:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174235.jpg"
+    },
+    {
+      "latitude": 41.243333333333332,
+      "longitude": -75.056666666666658,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:42:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174237.jpg"
+    },
+    {
+      "latitude": 41.243333333333332,
+      "longitude": -75.056666666666658,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:42:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174239.jpg"
+    },
+    {
+      "latitude": 41.243333333333332,
+      "longitude": -75.056666666666658,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:42:12",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174330.jpg"
+    },
+    {
+      "latitude": 41.243611111111115,
+      "longitude": -75.056666666666658,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:42:12",
+      "provider": "exif",
+      "reference_file": "PANO_20150612_174129.jpg"
+    },
+    {
+      "latitude": 41.279166666666669,
+      "longitude": -75.118333333333339,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:43:32",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174333.jpg"
+    },
+    {
+      "latitude": 41.279166666666669,
+      "longitude": -75.118333333333339,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:43:32",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174335.jpg"
+    },
+    {
+      "latitude": 41.279166666666669,
+      "longitude": -75.118333333333339,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:43:32",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174337.jpg"
+    },
+    {
+      "latitude": 41.279166666666669,
+      "longitude": -75.118333333333339,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:43:32",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174339.jpg"
+    },
+    {
+      "latitude": 41.279166666666669,
+      "longitude": -75.118333333333339,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:43:32",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174340.jpg"
+    },
+    {
+      "latitude": 41.279166666666669,
+      "longitude": -75.118333333333339,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:43:32",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174341.jpg"
+    },
+    {
+      "latitude": 41.279166666666669,
+      "longitude": -75.118333333333339,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:43:32",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174343.jpg"
+    },
+    {
+      "latitude": 41.279166666666669,
+      "longitude": -75.118333333333339,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:43:32",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174432.jpg"
+    },
+    {
+      "latitude": 41.279166666666669,
+      "longitude": -75.118333333333339,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:43:32",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_174434.jpg"
+    },
+    {
+      "latitude": 41.25194444444444,
+      "longitude": -75.154722222222219,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:44:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_181102.jpg"
+    },
+    {
+      "latitude": 41.25194444444444,
+      "longitude": -75.154722222222219,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T21:44:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_181103.jpg"
+    },
+    {
+      "latitude": 41.895555555555553,
+      "longitude": -73.977222222222224,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:45:09",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184510.jpg"
+    },
+    {
+      "latitude": 41.895555555555553,
+      "longitude": -73.977222222222224,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:45:09",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184521.jpg"
+    },
+    {
+      "latitude": 41.895555555555553,
+      "longitude": -73.977222222222224,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:45:09",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184523.jpg"
+    },
+    {
+      "latitude": 41.895555555555553,
+      "longitude": -73.977222222222224,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:45:09",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184524.jpg"
+    },
+    {
+      "latitude": 41.895555555555553,
+      "longitude": -73.977222222222224,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:45:09",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184526.jpg"
+    },
+    {
+      "latitude": 41.895555555555553,
+      "longitude": -73.977222222222224,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:45:09",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184540.jpg"
+    },
+    {
+      "latitude": 41.733611111111117,
+      "longitude": -74.0075,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:45:41",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184547.jpg"
+    },
+    {
+      "latitude": 41.733611111111117,
+      "longitude": -74.0075,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:45:41",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184550.jpg"
+    },
+    {
+      "latitude": 41.737777777777779,
+      "longitude": -73.982777777777784,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:45:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184555.jpg"
+    },
+    {
+      "latitude": 41.737777777777779,
+      "longitude": -73.982777777777784,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:45:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184557.jpg"
+    },
+    {
+      "latitude": 41.737777777777779,
+      "longitude": -73.982777777777784,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:45:51",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184559.jpg"
+    },
+    {
+      "latitude": 42.083888888888886,
+      "longitude": -75.290277777777774,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:48:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184840.jpg"
+    },
+    {
+      "latitude": 42.083888888888886,
+      "longitude": -75.290277777777774,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:48:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184843.jpg"
+    },
+    {
+      "latitude": 42.083888888888886,
+      "longitude": -75.290277777777774,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:48:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184846.jpg"
+    },
+    {
+      "latitude": 42.083888888888886,
+      "longitude": -75.290277777777774,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:48:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184847.jpg"
+    },
+    {
+      "latitude": 42.083888888888886,
+      "longitude": -75.290277777777774,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:48:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184848.jpg"
+    },
+    {
+      "latitude": 42.083888888888886,
+      "longitude": -75.290277777777774,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:48:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_184851.jpg"
+    },
+    {
+      "latitude": 42.083888888888886,
+      "longitude": -75.290277777777774,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:48:36",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_185013.jpg"
+    },
+    {
+      "latitude": 41.990833333333335,
+      "longitude": -74.9525,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:50:14",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_185015.jpg"
+    },
+    {
+      "latitude": 41.990833333333335,
+      "longitude": -74.9525,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:50:14",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_185017.jpg"
+    },
+    {
+      "latitude": 41.990833333333335,
+      "longitude": -74.9525,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:50:14",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_185018.jpg"
+    },
+    {
+      "latitude": 41.990833333333335,
+      "longitude": -74.9525,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:50:14",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_185020.jpg"
+    },
+    {
+      "latitude": 41.990833333333335,
+      "longitude": -74.9525,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:50:14",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_185027.jpg"
+    },
+    {
+      "latitude": 41.990833333333335,
+      "longitude": -74.9525,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:50:14",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_185236.jpg"
+    },
+    {
+      "latitude": 41.990833333333335,
+      "longitude": -74.9525,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:50:14",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_185237.jpg"
+    },
+    {
+      "latitude": 41.794722222222219,
+      "longitude": -74.689722222222215,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:52:38",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_185239.jpg"
+    },
+    {
+      "latitude": 41.794722222222219,
+      "longitude": -74.689722222222215,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:52:38",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_185240.jpg"
+    },
+    {
+      "latitude": 41.794722222222219,
+      "longitude": -74.689722222222215,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:52:38",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_185242.jpg"
+    },
+    {
+      "latitude": 41.794722222222219,
+      "longitude": -74.689722222222215,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T22:52:38",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_185244.jpg"
+    },
+    {
+      "latitude": 42.169722222222219,
+      "longitude": -74.520833333333329,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:00:41",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_190304.jpg"
+    },
+    {
+      "latitude": 42.169722222222219,
+      "longitude": -74.520833333333329,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:00:41",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_190305.jpg"
+    },
+    {
+      "latitude": 42.169722222222219,
+      "longitude": -74.520833333333329,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:00:41",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_190306.jpg"
+    },
+    {
+      "latitude": 40.783333333333331,
+      "longitude": -75.291666666666657,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:03:06",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_190307.jpg"
+    },
+    {
+      "latitude": 40.783333333333331,
+      "longitude": -75.291666666666657,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:03:06",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_190308.jpg"
+    },
+    {
+      "latitude": 40.87972222222222,
+      "longitude": -75.03,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:03:29",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_190330.jpg"
+    },
+    {
+      "latitude": 40.87972222222222,
+      "longitude": -75.03,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:03:29",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_190331.jpg"
+    },
+    {
+      "latitude": 40.87972222222222,
+      "longitude": -75.03,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:03:29",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_190332.jpg"
+    },
+    {
+      "latitude": 40.87972222222222,
+      "longitude": -75.03,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:03:29",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_190334.jpg"
+    },
+    {
+      "latitude": 40.87972222222222,
+      "longitude": -75.03,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:03:29",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_190335.jpg"
+    },
+    {
+      "latitude": 40.87972222222222,
+      "longitude": -75.03,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:03:29",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_190336.jpg"
+    },
+    {
+      "latitude": 40.87972222222222,
+      "longitude": -75.03,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:03:29",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_190337.jpg"
+    },
+    {
+      "latitude": 41.233333333333334,
+      "longitude": -75.352222222222224,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:05:15",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_190517.jpg"
+    },
+    {
+      "latitude": 41.233333333333334,
+      "longitude": -75.352222222222224,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:05:15",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_190518.jpg"
+    },
+    {
+      "latitude": 41.233333333333334,
+      "longitude": -75.352222222222224,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:05:15",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_190519.jpg"
+    },
+    {
+      "latitude": 42.305833333333332,
+      "longitude": -74.890833333333333,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:11:25",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_191126.jpg"
+    },
+    {
+      "latitude": 42.305833333333332,
+      "longitude": -74.890833333333333,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:11:25",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_191127.jpg"
+    },
+    {
+      "latitude": 42.305833333333332,
+      "longitude": -74.890833333333333,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:11:25",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_191128.jpg"
+    },
+    {
+      "latitude": 42.305833333333332,
+      "longitude": -74.890833333333333,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:11:25",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_191129.jpg"
+    },
+    {
+      "latitude": 42.305833333333332,
+      "longitude": -74.890833333333333,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:11:25",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_191131.jpg"
+    },
+    {
+      "latitude": 42.305833333333332,
+      "longitude": -74.890833333333333,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:11:25",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_191132.jpg"
+    },
+    {
+      "latitude": 42.300833333333337,
+      "longitude": -74.860277777777782,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:11:39",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_191139.jpg"
+    },
+    {
+      "latitude": 42.300833333333337,
+      "longitude": -74.860277777777782,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:11:39",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_191140.jpg"
+    },
+    {
+      "latitude": 42.300833333333337,
+      "longitude": -74.860277777777782,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:11:39",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_191141.jpg"
+    },
+    {
+      "latitude": 41.843611111111109,
+      "longitude": -74.32972222222223,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:15:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_191537.jpg"
+    },
+    {
+      "latitude": 41.843611111111109,
+      "longitude": -74.32972222222223,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:15:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_191541.jpg"
+    },
+    {
+      "latitude": 41.843611111111109,
+      "longitude": -74.32972222222223,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:15:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_191542.jpg"
+    },
+    {
+      "latitude": 41.843611111111109,
+      "longitude": -74.32972222222223,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:15:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_191543.jpg"
+    },
+    {
+      "latitude": 41.843611111111109,
+      "longitude": -74.32972222222223,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:15:35",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_191545.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_192653.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_192654.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_193901.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_193903.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_193905.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_193907.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_193908.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_193910.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_193911.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_193912.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_193913.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_193952.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_193955.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_194009.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_194010.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_194321.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_194322.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_194323.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_194323_1.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_194328.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_194329.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_194332.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_194334.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_194335.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_194337.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_194338.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_194528.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_194529.jpg"
+    },
+    {
+      "latitude": 41.395277777777771,
+      "longitude": -74.026388888888889,
+      "altitude": 0.0,
+      "timestamp": "2015-06-12T23:17:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_194531.jpg"
+    },
+    {
+      "latitude": 41.664444444444442,
+      "longitude": -74.576388888888886,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:44:50",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214503.jpg"
+    },
+    {
+      "latitude": 41.664444444444442,
+      "longitude": -74.576388888888886,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:44:50",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214505.jpg"
+    },
+    {
+      "latitude": 41.664444444444442,
+      "longitude": -74.576388888888886,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:44:50",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214513.jpg"
+    },
+    {
+      "latitude": 41.6575,
+      "longitude": -74.57416666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:45:13",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214514.jpg"
+    },
+    {
+      "latitude": 41.6575,
+      "longitude": -74.57416666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:45:13",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214515.jpg"
+    },
+    {
+      "latitude": 41.6575,
+      "longitude": -74.57416666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:45:13",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214519.jpg"
+    },
+    {
+      "latitude": 41.6575,
+      "longitude": -74.57416666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:45:13",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214520.jpg"
+    },
+    {
+      "latitude": 41.6575,
+      "longitude": -74.57416666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:45:13",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214521.jpg"
+    },
+    {
+      "latitude": 41.6575,
+      "longitude": -74.57416666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:45:13",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214522.jpg"
+    },
+    {
+      "latitude": 41.6575,
+      "longitude": -74.57416666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:45:13",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214523.jpg"
+    },
+    {
+      "latitude": 41.6575,
+      "longitude": -74.57416666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:45:13",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214527.jpg"
+    },
+    {
+      "latitude": 41.6575,
+      "longitude": -74.57416666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:45:13",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214529.jpg"
+    },
+    {
+      "latitude": 41.670833333333334,
+      "longitude": -74.573888888888888,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:46:01",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214610.jpg"
+    },
+    {
+      "latitude": 41.670833333333334,
+      "longitude": -74.573888888888888,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:46:01",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214611.jpg"
+    },
+    {
+      "latitude": 41.665277777777781,
+      "longitude": -74.575277777777771,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:47:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214726.jpg"
+    },
+    {
+      "latitude": 41.665277777777781,
+      "longitude": -74.575277777777771,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:47:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214726_1.jpg"
+    },
+    {
+      "latitude": 41.665277777777781,
+      "longitude": -74.575277777777771,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:47:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214727.jpg"
+    },
+    {
+      "latitude": 41.665277777777781,
+      "longitude": -74.575277777777771,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T01:47:21",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_214728.jpg"
+    },
+    {
+      "latitude": 41.670277777777777,
+      "longitude": -74.54805555555555,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T02:13:39",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_221341.jpg"
+    },
+    {
+      "latitude": 41.670277777777777,
+      "longitude": -74.54805555555555,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T02:13:39",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_221342.jpg"
+    },
+    {
+      "latitude": 41.663888888888884,
+      "longitude": -74.562222222222218,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T02:14:08",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_221434.jpg"
+    },
+    {
+      "latitude": 41.668888888888887,
+      "longitude": -74.546666666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T02:39:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_235547.jpg"
+    },
+    {
+      "latitude": 41.668888888888887,
+      "longitude": -74.546666666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T02:39:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150612_235548.jpg"
+    },
+    {
+      "latitude": 41.668888888888887,
+      "longitude": -74.546666666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T02:39:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150613_074105.jpg"
+    },
+    {
+      "latitude": 41.668888888888887,
+      "longitude": -74.546666666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T02:39:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150613_074108.jpg"
+    },
+    {
+      "latitude": 41.668888888888887,
+      "longitude": -74.546666666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T02:39:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150613_074110.jpg"
+    },
+    {
+      "latitude": 41.668888888888887,
+      "longitude": -74.546666666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T02:39:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150613_082322.jpg"
+    },
+    {
+      "latitude": 41.668888888888887,
+      "longitude": -74.546666666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T02:39:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150613_082323.jpg"
+    },
+    {
+      "latitude": 41.668888888888887,
+      "longitude": -74.546666666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T02:39:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150613_091239.jpg"
+    },
+    {
+      "latitude": 41.668888888888887,
+      "longitude": -74.546666666666667,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T02:39:16",
+      "provider": "exif",
+      "reference_file": "IMG_20150613_091254.jpg"
+    },
+    {
+      "latitude": 50.100277777777777,
+      "longitude": 9.0236111111111121,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T20:19:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150613_221944.jpg"
+    },
+    {
+      "latitude": 50.100277777777777,
+      "longitude": 9.0236111111111121,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T20:19:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150613_221944_1.jpg"
+    },
+    {
+      "latitude": 50.100277777777777,
+      "longitude": 9.0236111111111121,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T20:19:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150613_221948.jpg"
+    },
+    {
+      "latitude": 50.100277777777777,
+      "longitude": 9.0236111111111121,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T20:19:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150613_221949.jpg"
+    },
+    {
+      "latitude": 50.100277777777777,
+      "longitude": 9.0236111111111121,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T20:19:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150613_221952.jpg"
+    },
+    {
+      "latitude": 50.100277777777777,
+      "longitude": 9.0236111111111121,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T20:19:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150613_221953.jpg"
+    },
+    {
+      "latitude": 50.100277777777777,
+      "longitude": 9.0236111111111121,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T20:19:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150613_221957.jpg"
+    },
+    {
+      "latitude": 50.100277777777777,
+      "longitude": 9.0236111111111121,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T20:19:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150613_221959.jpg"
+    },
+    {
+      "latitude": 50.100277777777777,
+      "longitude": 9.0236111111111121,
+      "altitude": 0.0,
+      "timestamp": "2015-06-13T20:19:42",
+      "provider": "exif",
+      "reference_file": "IMG_20150613_221959_1.jpg"
     }
   ]
 }
