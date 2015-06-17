@@ -34,20 +34,20 @@
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\packages\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
-    <Reference Include="Core.Shell.Common">
-      <HintPath>..\packages\Core.Shell.0.1.8\lib\net45\Core.Shell.Common.dll</HintPath>
-    </Reference>
-    <Reference Include="Core.Shell.Platform">
-      <HintPath>..\packages\Core.Shell.0.1.8\lib\net45\Core.Shell.Platform.dll</HintPath>
-    </Reference>
     <Reference Include="Core.Portable">
-      <HintPath>..\packages\Core.Common.0.1.198\lib\net45\Core.Portable.dll</HintPath>
+      <HintPath>..\packages\Core.Common.0.1.200\lib\net45\Core.Portable.dll</HintPath>
     </Reference>
     <Reference Include="Core.Platform">
-      <HintPath>..\packages\Core.Common.0.1.198\lib\net45\Core.Platform.dll</HintPath>
+      <HintPath>..\packages\Core.Common.0.1.200\lib\net45\Core.Platform.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Posix">
-      <HintPath>..\packages\Core.Common.0.1.198\lib\net45\Mono.Posix.dll</HintPath>
+      <HintPath>..\packages\Core.Common.0.1.200\lib\net45\Mono.Posix.dll</HintPath>
+    </Reference>
+    <Reference Include="Core.Shell.Common">
+      <HintPath>..\packages\Core.Shell.0.1.11\lib\net45\Core.Shell.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Core.Shell.Platform">
+      <HintPath>..\packages\Core.Shell.0.1.11\lib\net45\Core.Shell.Platform.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -72,5 +72,11 @@
     <None Include="travelmap.js">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="assets\camera-photo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="assets\" />
   </ItemGroup>
 </Project>

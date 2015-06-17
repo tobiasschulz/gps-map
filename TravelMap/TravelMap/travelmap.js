@@ -52,12 +52,13 @@ $(document).ready(function(){
 			//		southWest.lng() + lngSpan * Math.random()
 			//);
 
-			var latLng  = new google.maps.LatLng(
+			var geoLocation  = new google.maps.LatLng(
 					dataArray[i]['latitude'],
 					dataArray[i]['longitude']
 			);
+			var reference_file = dataArray[i]['reference_file'];
 			
-			var randomLocation = projection.fromLatLngToDivPixel( coordinateArray[i] );
+			var pixelLocation = projection.fromLatLngToDivPixel( geoLocation );
 
 			var $point = $('<div '
 								+'class="map-point" '
@@ -66,13 +67,13 @@ $(document).ready(function(){
 								+'style="'
 									+'width:8px; '
 									+'height:8px; '
-									+'left:'+randomLocation.x+'px; '
-									+'top:'+randomLocation.y+'px; '
+									+'left:'+pixelLocation.x+'px; '
+									+'top:'+pixelLocation.y+'px; '
 									+'position:absolute; '
 									+'cursor:pointer; '
 							+'">'
 								+'<img '
-									+'src="fish-mini-20.png" '
+									+'src="assets/camera-photo.png" '
 									+'style="position: absolute; top: -6px; left: -6px" '
 								+'/>'
 							+'</div>');
@@ -91,7 +92,7 @@ $(document).ready(function(){
 									+'font-size:10px; '
 									+'text-align:center; '
 								+'">'
-									+'Custom ID '+i
+									+ reference_file
 								+'</span>');
 			}
 			
