@@ -31,6 +31,16 @@ namespace TravelMap
 				Config.PictureSourceDirectory_Internal = new List<string> ();
 			}
 
+			if (Config.UtcOffsets == null || Config.UtcOffsets.Count == 0) {
+				Config.UtcOffsets = new List<UtcOffset> (new [] {
+					new UtcOffset {
+						Start = DateTime.Now.AddYears (-1),
+						end = DateTime.Now.AddYears (+1),
+						offset = (int)TimeZoneInfo.Local.GetUtcOffset (DateTime.Now).TotalHours
+					}
+				});
+			}
+
 			ConfigHelper.SaveConfig (fullPath: configPath, stuff: Config);
 
 			Locations = new LocationTimeline (fullPath: locationPath);
@@ -50,6 +60,9 @@ namespace TravelMap
 						.ToList ();
 				}
 			}
+
+			[JsonProperty ("utc_offsets")]
+			public List<UtcOffset> UtcOffsets { get; set; }
 
 			public InternalConfig ()
 			{

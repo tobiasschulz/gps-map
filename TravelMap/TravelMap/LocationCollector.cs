@@ -49,8 +49,6 @@ namespace TravelMap
 				if (file.Path.FileName.StartsWith ("2015_"))
 					continue;
 
-				Log.Info ("contains(", file.Path.FileName, "): ", config.Locations.Contains (where: l => l.ReferenceFile == file.Path.FileName));
-
 				if (!config.Locations.Contains (where: l => l.ReferenceFile == file.Path.FileName)) {
 
 					PortableLocation location = exif.GetLocation (file);
