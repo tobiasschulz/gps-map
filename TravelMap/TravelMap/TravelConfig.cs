@@ -12,6 +12,7 @@ namespace TravelMap
 	{
 		public readonly InternalConfig Config;
 		public readonly LocationTimeline Locations;
+		public readonly PhotoCollection Photos;
 
 		public TravelConfig (string configDirectory = null)
 		{
@@ -24,6 +25,7 @@ namespace TravelMap
 
 			string configPath = configDirectory + @"config.json";
 			string locationPath = configDirectory + @"locations.json";
+			string photoPath = configDirectory + @"photos.json";
 
 			Config = ConfigHelper.OpenConfig<InternalConfig> (fullPath: configPath);
 
@@ -36,18 +38,14 @@ namespace TravelMap
 			}
 
 			if (Config.UtcOffsets == null || Config.UtcOffsets.Count == 0) {
-				Config.UtcOffsets = new List<UtcOffset> (new [] {
-					new UtcOffset {
-						Start = DateTime.Now.AddYears (-1),
-						end = DateTime.Now.AddYears (+1),
-						offset = (int)TimeZoneInfo.Local.GetUtcOffset (DateTime.Now).TotalHours
-					}
-				});
+				Config.UtcOffsets = new List<UtcOffset> (new [] { UtcOffset.DefaultOffset (DateTime.Now) });
 			}
 
 			ConfigHelper.SaveConfig (fullPath: configPath, stuff: Config);
 
 			Locations = new LocationTimeline (fullPath: locationPath);
+
+			Photos = new PhotoCollection (fullPath: photoPath);
 		}
 
 		public class InternalConfig

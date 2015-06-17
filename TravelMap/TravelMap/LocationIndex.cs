@@ -3,15 +3,16 @@ using System.Collections.Generic;
 using Core.Common;
 using Core.Math;
 using Core.Shell.Common.FileSystems;
+using TravelMap.Pictures;
 
 namespace TravelMap
 {
-	public class LocationCollector
+	public class LocationIndex
 	{
 		readonly TravelConfig config;
 		readonly Exif exif = new Exif ();
 
-		public LocationCollector (TravelConfig config)
+		public LocationIndex (TravelConfig config)
 		{
 			this.config = config;
 		}
@@ -49,7 +50,7 @@ namespace TravelMap
 				if (file.Path.FileName.StartsWith ("2015_"))
 					continue;
 
-				if (!config.Locations.Contains (where: l => l.ReferenceFile == file.Path.FileName)) {
+				if (!config.Locations.ContainsLocation (where: l => l.ReferenceFile == file.Path.FileName)) {
 
 					PortableLocation location = exif.GetLocation (file);
 					Log.Info (file.Path.FileName, ": ", location?.Latitude, " ", location?.Longitude);

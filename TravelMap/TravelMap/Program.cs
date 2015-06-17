@@ -19,8 +19,11 @@ namespace TravelMap
 
 			Log.Info ("Hello World!");
 
-			LocationCollector locationCollector = new LocationCollector (config: config);
-			locationCollector.SyncFromFiles ();
+			LocationIndex locationIndex = new LocationIndex (config: config);
+			locationIndex.SyncFromFiles ();
+
+			PhotoIndex photoIndex = new PhotoIndex (config: config);
+			photoIndex.SyncFromFiles ();
 
 			MapExporter mapExport = new MapExporter (config: config);
 			mapExport.ExportHTML5 ();

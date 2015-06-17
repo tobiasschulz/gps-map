@@ -5,7 +5,7 @@ using Core.Common;
 using Core.Math;
 using Core.Shell.Common.FileSystems;
 
-namespace TravelMap
+namespace TravelMap.Pictures
 {
 	public class Exif
 	{
@@ -101,6 +101,59 @@ namespace TravelMap
 
 			shellScript.WriteAllText (path: "run3.sh", contents: script);
 			shellScript.ExecuteScript (path: "run3.sh", ignoreEmptyLines: true, verbose: false);
+		}
+
+		public DateTime? GetExifDate (VirtualFile virtualFile)
+		{
+
+			string[] possibleTagNames = new [] {
+				"DateTimeOriginal",
+				"CreateDate",
+				//"GPSDateTime",
+				//"ModifyDate",
+				"DateTime",
+			};
+			return TryParseExifTimestamp (exifTags: GetExifTags (virtualFile), possibleTagNames: possibleTagNames);
+		}
+
+		public DateTime? TryParseExifTimestamp (List<ExifTag> exifTags, string[] possibleTagNames)
+		{
+			string lastDateTimeStr = null;
+			foreach (string possibleTagName in possibleTagNames) {
+				if (exifTags.Any (tag => tag.Name == possibleTagName)) {
+					string dateTimeStr = exifTags.First (tag => tag.Name == possibleTagName).Value;
+					if (dateTimeStr.Length >= 8) {
+						lastDateTimeStr = dateTimeStr;
+
+						DateTime? result = null;
+						DateTime dt;
+						dateTimeStr = dateTimeStr.TrimEnd ('Z');
+						string[] possibleDateFormats = new [] {
+							"yyyy:MM:dd HH:mm:ss", "yyyy:MM:dd HH:mm:sszzz", "yyyy:MM:dd HH:mm:sszz"
+						};
+						foreach (string possibleDateFormat in possibleDateFormats) {
+							if (DateTime.TryParseExact (dateTimeStr, possibleDateFormat, 
+								    System.Globalization.CultureInfo.InvariantCulture, System.Globalization.DateTimeStyles.AssumeLocal, out dt)) {
+								result = dt;
+								break;
+							}
+						}
+						if (DateTime.TryParse (dateTimeStr, out dt)) {
+							result = dt;
+						}
+
+						if (result.HasValue) {
+							return result.Value;
+						}
+					}
+				}
+			}
+			if (lastDateTimeStr != null) {
+				Log.Error ("Error parsing exif datetime: ", lastDateTimeStr);
+			} else if (exifTags.Count > 0) {
+				Log.Debug ("No ", string.Join (" or ", possibleTagNames), ", but: ", string.Join ("; ", exifTags.Select (tag => tag.Name + "=" + tag.Value)));
+			}
+			return null;
 		}
 	}
 

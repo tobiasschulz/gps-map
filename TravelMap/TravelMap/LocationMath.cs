@@ -43,6 +43,26 @@ namespace TravelMap
 
 			return degrees;
 		}
+
+		public static double DistanceMeters (PortableLocation loc1, PortableLocation loc2)
+		{
+			return rad2deg (Math.Acos (
+				Math.Sin (deg2rad (loc1.Latitude)) * Math.Sin (deg2rad (loc2.Latitude))
+				+ Math.Cos (deg2rad (loc1.Latitude)) * Math.Cos (deg2rad (loc2.Latitude)) * Math.Cos (deg2rad (loc1.Longitude - loc2.Longitude)))
+			)
+			* 60 * 1.1515 * 1.609344 * 1000;
+		}
+
+		static double rad2deg (double rad)
+		{
+			return (rad / Math.PI * 180.0);
+		}
+
+		static double deg2rad (double deg)
+		{
+			return (deg * Math.PI / 180.0);
+		}
+
 	}
 }
 
