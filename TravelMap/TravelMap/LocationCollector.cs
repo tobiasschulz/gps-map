@@ -18,17 +18,17 @@ namespace TravelMap
 
 		public void SyncFromFiles ()
 		{
-			List<VirtualDirectory> sources = config.Config.PictureSourceDirectory;
+			List<VirtualDirectory> sources = config.Config.PictureSourceDirectories;
 
 			if (sources == null || sources.Count == 0) {
-				Log.Error ("Error: PictureSourceDirectory is empty!");
+				Log.Error ("Error: PictureSourceDirectories is an empty list!");
 				return;
 			}
 
 			Log.Info ("Collect locations:");
 			Log.Indent++;
 
-			Log.Info ("all sources: ", config.Config.PictureSourceDirectory.Join (", "));
+			Log.Info ("all sources: ", config.Config.PictureSourceDirectories.Join (", "));
 
 			foreach (VirtualDirectory source in sources) {
 				SyncFromDirectory (source: source);

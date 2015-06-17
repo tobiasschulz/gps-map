@@ -1,9 +1,8 @@
 {
-  "directory_source_pictures": [
-    "",
-    null,
+  "directories_source_pictures": [
     "/ssd/Cloud/Bilder/Reisen/New York City 2015-06-04/"
   ],
+  "directory_output_html5": "/data/workspace/nyc/map/",
   "utc_offsets": [
     {
       "start": "2015-01-01T01:00:00+01:00",

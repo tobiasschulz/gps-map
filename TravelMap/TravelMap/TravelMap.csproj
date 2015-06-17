@@ -61,9 +61,16 @@
     <Compile Include="Mono.Options-PCL.cs" />
     <Compile Include="LocationMath.cs" />
     <Compile Include="UtcOffset.cs" />
+    <Compile Include="MapExporter.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="travelmap.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="travelmap.js">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 </Project>

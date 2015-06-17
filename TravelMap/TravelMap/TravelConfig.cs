@@ -27,8 +27,12 @@ namespace TravelMap
 
 			Config = ConfigHelper.OpenConfig<InternalConfig> (fullPath: configPath);
 
-			if (Config.PictureSourceDirectory_Internal == null) {
-				Config.PictureSourceDirectory_Internal = new List<string> ();
+			if (Config.PictureSourceDirectories_Internal == null) {
+				Config.PictureSourceDirectories_Internal = new List<string> ();
+			}
+
+			if (string.IsNullOrWhiteSpace (Config.Html5OutputDirectory_Internal)) {
+				Config.Html5OutputDirectory_Internal = null;
 			}
 
 			if (Config.UtcOffsets == null || Config.UtcOffsets.Count == 0) {
@@ -48,16 +52,31 @@ namespace TravelMap
 
 		public class InternalConfig
 		{
-			[JsonProperty ("directory_source_pictures")]
-			public List<string> PictureSourceDirectory_Internal { get; set; }
+			[JsonProperty ("directories_source_pictures")]
+			public List<string> PictureSourceDirectories_Internal { get; set; }
 
 			[JsonIgnore]
-			public List<VirtualDirectory> PictureSourceDirectory {
+			public List<VirtualDirectory> PictureSourceDirectories {
 				get {
-					return PictureSourceDirectory_Internal
+					return PictureSourceDirectories_Internal
 						.Select (d => FileSystemSubsystems.ParseNativePath (d) as VirtualDirectory)
 						.Where (d => d != null && d.Path.VirtualPath.Length != 0)
 						.ToList ();
+				}
+			}
+
+			[JsonProperty ("directory_output_html5")]
+			public string Html5OutputDirectory_Internal { get; set; }
+
+			[JsonIgnore]
+			public VirtualDirectory Html5OutputDirectory {
+				get {
+					VirtualDirectory vd = FileSystemSubsystems.ParseNativePath (Html5OutputDirectory_Internal) as VirtualDirectory;
+					if (vd != null && vd.Path.VirtualPath.Length != 0) {
+						return vd;
+					} else {
+						return null;
+					}
 				}
 			}
 
