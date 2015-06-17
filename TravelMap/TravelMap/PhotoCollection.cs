@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using Newtonsoft.Json;
 using System.Linq;
 using Core.Math;
+using TravelMap.Pictures;
 
 namespace TravelMap
 {
@@ -14,6 +15,8 @@ namespace TravelMap
 	{
 		readonly PhotoList photos;
 		readonly string fullPath;
+
+		public PhotoList Photos { get { return photos; } }
 
 		public PhotoCollection (string fullPath)
 		{
@@ -42,9 +45,21 @@ namespace TravelMap
 
 		public static void CreateThumbnail (RegularFile source, RegularFile destination)
 		{
-			Bitmap original = (Bitmap)Image.FromFile (source.Path.RealPath);
+			//Bitmap original = (Bitmap)Image.FromFile (source.Path.RealPath);
+			//JpegHelper.Current.Save (image: original, filename: destination.Path.RealPath, compression: new CompressionParameters { Quality = 50 });
 
-			JpegHelper.Current.Save (image: original, filename: destination.Path.RealPath, compression: new CompressionParameters { Quality = 50 });
+			Resize.ResizeImage (sourcePath: source.Path.RealPath, destPath: destination.Path.RealPath, mimeType: "image/jpeg", maxWidth: 80, maxHeight: 50, quality: 50);
+		}
+
+		static readonly string tempFilename = System.IO.Path.GetTempFileName ();
+
+		public static byte[] CreateThumbnail (RegularFile source)
+		{
+			//Bitmap original = (Bitmap)Image.FromFile (source.Path.RealPath);
+			//JpegHelper.Current.Save (image: original, filename: destination.Path.RealPath, compression: new CompressionParameters { Quality = 50 });
+
+			Resize.ResizeImage (sourcePath: source.Path.RealPath, destPath: tempFilename, mimeType: "image/jpeg", maxWidth: 80, maxHeight: 50, quality: 50);
+			return System.IO.File.ReadAllBytes (tempFilename);
 		}
 
 		void Save ()

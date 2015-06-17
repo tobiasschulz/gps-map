@@ -59,7 +59,7 @@ namespace TravelMap
 
 				if (line.Contains ("// HOOK: SET JSON DATA")) {
 					yield return "dataArray = ";
-					yield return PortableConfigHelper.WriteConfig (stuff: config.Locations.Locations.Locations, inline: true);
+					yield return PortableConfigHelper.WriteConfig (stuff: config.Photos.Photos, inline: true);
 					yield return ";";
 				}
 			}

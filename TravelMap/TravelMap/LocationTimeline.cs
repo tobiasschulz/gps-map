@@ -68,7 +68,7 @@ namespace TravelMap
 
 			double beforeMeters = LocationMath.DistanceMeters (previous, result);
 			double afterMeters = LocationMath.DistanceMeters (result, next);
-			result.ReferenceNote = string.Format ("{0:P1} from {1} meters ({2} seconds ago) to {3} meters (in {4} seconds) ",
+			result.ReferenceNote = string.Format ("{0:P1} from {1:0.00} meters ({2} seconds ago) to {3:0.00} meters (in {4} seconds) ",
 				percent, beforeMeters, before.TotalSeconds, afterMeters, after.TotalSeconds);
 
 			return result;

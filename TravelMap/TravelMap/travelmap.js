@@ -52,12 +52,13 @@ $(document).ready(function(){
 			//		southWest.lng() + lngSpan * Math.random()
 			//);
 
-			var geoLocation  = new google.maps.LatLng(
-					dataArray[i]['latitude'],
-					dataArray[i]['longitude']
-			);
+			var lat = dataArray[i]['location']['latitude'];
+			var lon = dataArray[i]['location']['longitude'];
+			var geoLocation  = new google.maps.LatLng(lat, lon);
 			var reference_file = dataArray[i]['reference_file'];
-			var dialog_content = dataArray[i]['latitude'] + "," + dataArray[i]['longitude'] + "  " + reference_file;
+			var dialog_content = "Location: " + lat + "," + lon + "\n"
+				+ "Timestamp: " + dataArray[i]['timestamp_local'] + " (local), " + dataArray[i]['timestamp_utc'] + " (UTC)" + "\n"
+				+ "Filename: " + reference_file;
 			
 			var pixelLocation = projection.fromLatLngToDivPixel( geoLocation );
 
