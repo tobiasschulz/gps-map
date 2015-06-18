@@ -65,7 +65,7 @@ namespace TravelMap
 						thumbnailCache.GetChildFile (file.Path.FileName).OpenWriter ().WriteBytes (PhotoCollection.CreateThumbnail (file as RegularFile));
 					}
 					if (photo.DateTime.HasValue) {
-						photo.DateTimeUTC = photo.DateTime.Value + UtcOffset.FindOffset (list: config.Config.UtcOffsets, dateTimeLocal: photo.DateTime.Value).ToTimeSpan ();
+						photo.DateTimeUTC = photo.DateTime.Value - UtcOffset.FindOffset (list: config.Config.UtcOffsets, dateTimeLocal: photo.DateTime.Value).ToTimeSpan ();
 						photo.Location = config.Locations.InterpolateLocation (photo.DateTimeUTC.Value);
 					}
 
