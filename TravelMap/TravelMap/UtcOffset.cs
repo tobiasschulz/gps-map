@@ -22,7 +22,7 @@ namespace TravelMap
 
 		public TimeSpan ToTimeSpan ()
 		{
-			Log.Info ("offset = ", offset, ", timespan = ", TimeSpan.FromHours (offset));
+			//Log.Info ("offset = ", offset, ", timespan = ", TimeSpan.FromHours (offset));
 			return TimeSpan.FromHours (offset);
 		}
 
