@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Core.Common;
 using Core.IO;
 using Core.Math;
 using Core.Shell.Common.FileSystems;
@@ -21,6 +22,7 @@ namespace TravelMap
 
 		public TimeSpan ToTimeSpan ()
 		{
+			Log.Debug ("offset = ", offset, ", timespan = ", TimeSpan.FromHours (offset));
 			return TimeSpan.FromHours (offset);
 		}
 

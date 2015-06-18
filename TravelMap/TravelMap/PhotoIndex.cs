@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using Core.Common;
 using Core.Math;
 using Core.Shell.Common.FileSystems;
+using Core.Shell.Platform.FileSystems;
 using TravelMap.Pictures;
+using Core.IO;
 
 namespace TravelMap
 {
@@ -20,11 +22,18 @@ namespace TravelMap
 		public void SyncFromFiles ()
 		{
 			List<VirtualDirectory> sources = config.Config.PictureSourceDirectories;
+			RegularDirectory thumbnailCache = config.Config.ThumbnailCacheDirectory as RegularDirectory;
 
 			if (sources == null || sources.Count == 0) {
 				Log.Error ("Error: PictureSourceDirectories is an empty list!");
 				return;
 			}
+			if (thumbnailCache == null) {
+				Log.Error ("Error: No valid ThumbnailCacheDirectory!");
+				return;
+			}
+
+			thumbnailCache.CreateDirectories ();
 
 			Log.Info ("Collect Photos:");
 			Log.Indent++;
@@ -32,13 +41,13 @@ namespace TravelMap
 			Log.Info ("all sources: ", config.Config.PictureSourceDirectories.Join (", "));
 
 			foreach (VirtualDirectory source in sources) {
-				SyncFromDirectory (source: source);
+				SyncFromDirectory (source: source, thumbnailCache: thumbnailCache);
 			}
 
 			Log.Indent--;
 		}
 
-		void SyncFromDirectory (VirtualDirectory source)
+		void SyncFromDirectory (VirtualDirectory source, RegularDirectory thumbnailCache)
 		{
 			Log.Info ("source: ", source);
 			Log.Indent++;
@@ -52,6 +61,9 @@ namespace TravelMap
 						Filename = file.Path.FileName,
 						DateTime = exif.GetExifDate (file),
 					};
+					if (!FileHelper.Instance.Exists (PathHelper.CombinePath (thumbnailCache.Path.RealPath, file.Path.FileName))) {
+						thumbnailCache.GetChildFile (file.Path.FileName).OpenWriter ().WriteBytes (PhotoCollection.CreateThumbnail (file as RegularFile));
+					}
 					if (photo.DateTime.HasValue) {
 						photo.DateTimeUTC = photo.DateTime.Value + UtcOffset.FindOffset (list: config.Config.UtcOffsets, dateTimeLocal: photo.DateTime.Value).ToTimeSpan ();
 						photo.Location = config.Locations.InterpolateLocation (photo.DateTimeUTC.Value);

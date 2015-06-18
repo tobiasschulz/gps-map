@@ -78,6 +78,21 @@ namespace TravelMap
 				}
 			}
 
+			[JsonProperty ("directory_thumbnail_cache")]
+			public string ThumbnailCacheDirectory_Internal { get; set; }
+
+			[JsonIgnore]
+			public VirtualDirectory ThumbnailCacheDirectory {
+				get {
+					VirtualDirectory vd = FileSystemSubsystems.ParseNativePath (ThumbnailCacheDirectory_Internal) as VirtualDirectory;
+					if (vd != null && vd.Path.VirtualPath.Length != 0) {
+						return vd;
+					} else {
+						return null;
+					}
+				}
+			}
+
 			[JsonProperty ("utc_offsets")]
 			public List<UtcOffset> UtcOffsets { get; set; }
 

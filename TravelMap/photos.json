@@ -15,20 +15,6 @@
       }
     },
     {
-      "filename": "IMG_20150604_001102.jpg",
-      "timestamp_local": "2015-06-04T00:11:08+02:00",
-      "timestamp_utc": "2015-06-04T02:11:08+02:00",
-      "location": {
-        "latitude": 50.228558333333332,
-        "longitude": 8.68048784935242,
-        "altitude": 0.0,
-        "timestamp": "2015-06-04T02:11:08+02:00",
-        "provider": "exif",
-        "reference_file": null,
-        "reference_note": "68,7% from 0,28 meters (14224 seconds ago) to 0,13 meters (in 6477 seconds) "
-      }
-    },
-    {
       "filename": "IMG_20150604_001113.jpg",
       "timestamp_local": "2015-06-04T00:11:18+02:00",
       "timestamp_utc": "2015-06-04T02:11:18+02:00",

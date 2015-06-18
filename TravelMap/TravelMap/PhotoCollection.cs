@@ -58,6 +58,7 @@ namespace TravelMap
 			//Bitmap original = (Bitmap)Image.FromFile (source.Path.RealPath);
 			//JpegHelper.Current.Save (image: original, filename: destination.Path.RealPath, compression: new CompressionParameters { Quality = 50 });
 
+			FileHelper.Instance.Delete (tempFilename);
 			Resize.ResizeImage (sourcePath: source.Path.RealPath, destPath: tempFilename, mimeType: "image/jpeg", maxWidth: 80, maxHeight: 50, quality: 50);
 			return System.IO.File.ReadAllBytes (tempFilename);
 		}

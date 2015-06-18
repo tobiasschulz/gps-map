@@ -14,6 +14,7 @@ namespace TravelMap
 		static readonly string FILE_HTML = "travelmap.html";
 		static readonly string FILE_JS = "travelmap.js";
 		static readonly string DIRECTORY_ASSETS = "assets";
+		static readonly string DIRECTORY_THUMBNAILS = "thumbnails";
 
 		readonly TravelConfig config;
 
@@ -26,6 +27,7 @@ namespace TravelMap
 		{
 			RegularDirectory outputDirectory = config.Config.Html5OutputDirectory as RegularDirectory;
 			RegularDirectory appDirectory = FileSystemSubsystems.ParseNativePath (System.IO.Path.GetDirectoryName (PlatformInfo.System.ApplicationPath)) as RegularDirectory;
+			RegularDirectory cacheThumbnailDirectory = config.Config.ThumbnailCacheDirectory as RegularDirectory;
 
 			if (outputDirectory == null) {
 				Log.Error ("Error: No Html5OutputDirectory!");
@@ -35,18 +37,30 @@ namespace TravelMap
 				Log.Error ("Error: No valid appDirectory!");
 				return;
 			}
+			if (cacheThumbnailDirectory == null) {
+				Log.Error ("Error: No valid cacheThumbnailDirectory!");
+				return;
+			}
 
 			Log.Info ("Html5 Export:");
 			Log.Indent++;
 
 			Log.Info ("output directory: ", outputDirectory);
+
 			outputDirectory.GetChildFile (FILE_HTML).OpenWriter ().WriteLines (appDirectory.GetChildFile (FILE_HTML).OpenReader ().ReadLines ());
 			outputDirectory.GetChildFile (FILE_JS).OpenWriter ().WriteLines (template_JS (appDirectory.GetChildFile (FILE_JS).OpenReader ().ReadLines ()));
+
 			RegularDirectory appAssetDirectory = appDirectory.GetChildDirectory (DIRECTORY_ASSETS) as RegularDirectory;
 			RegularDirectory outputAssetDirectory = outputDirectory.GetChildDirectory (DIRECTORY_ASSETS) as RegularDirectory;
 			outputAssetDirectory.CreateDirectories ();
 			foreach (RegularFile assetFile in appAssetDirectory.OpenList().ListFiles()) {
 				outputAssetDirectory.GetChildFile (assetFile.Path.FileName).OpenWriter ().WriteBytes (assetFile.OpenReader ().ReadBytes ());
+			}
+
+			RegularDirectory outputThumbnailDirectory = outputDirectory.GetChildDirectory (DIRECTORY_THUMBNAILS) as RegularDirectory;
+			outputThumbnailDirectory.CreateDirectories ();
+			foreach (RegularFile thumbnailFile in cacheThumbnailDirectory.OpenList().ListFiles()) {
+				outputThumbnailDirectory.GetChildFile (thumbnailFile.Path.FileName).OpenWriter ().WriteBytes (thumbnailFile.OpenReader ().ReadBytes ());
 			}
 
 			Log.Indent--;
@@ -59,8 +73,10 @@ namespace TravelMap
 
 				if (line.Contains ("// HOOK: SET JSON DATA")) {
 					yield return "dataArray = ";
-					yield return PortableConfigHelper.WriteConfig (stuff: config.Photos.Photos, inline: true);
+					var photos = config.Photos.Photos.Photos;
+					yield return PortableConfigHelper.WriteConfig (stuff: photos, inline: true);
 					yield return ";";
+					//yield return "dataArray = dataArray['photos'];";
 				}
 			}
 		}
