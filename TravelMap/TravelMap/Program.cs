@@ -3,6 +3,7 @@ using Core.Common;
 using Core.Net;
 using Core.Platform;
 using Core.Shell.Platform.FileSystems;
+using TravelMap.Hosting;
 
 namespace TravelMap
 {
@@ -22,7 +23,9 @@ namespace TravelMap
 			LocationIndex locationIndex = new LocationIndex (config: config);
 			locationIndex.SyncFromFiles ();
 
-			PhotoIndex photoIndex = new PhotoIndex (config: config);
+			ImgurHosting hosting = new ImgurHosting (config: config);
+
+			PhotoIndex photoIndex = new PhotoIndex (config: config, hoster: hosting);
 			photoIndex.SyncFromFiles ();
 
 			MapExporter mapExport = new MapExporter (config: config);

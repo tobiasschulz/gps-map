@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using Core.Common;
+using Core.IO;
 using Core.Math;
 using Core.Shell.Common.FileSystems;
 using Core.Shell.Platform.FileSystems;
+using TravelMap.Hosting;
 using TravelMap.Pictures;
-using Core.IO;
+using System.Linq;
 
 namespace TravelMap
 {
@@ -13,10 +15,12 @@ namespace TravelMap
 	{
 		readonly TravelConfig config;
 		readonly Exif exif = new Exif ();
+		readonly PhotoHosting hoster;
 
-		public PhotoIndex (TravelConfig config)
+		public PhotoIndex (TravelConfig config, PhotoHosting hoster)
 		{
 			this.config = config;
+			this.hoster = hoster;
 		}
 
 		public void SyncFromFiles ()
@@ -74,6 +78,17 @@ namespace TravelMap
 					config.Photos.AddPhoto (photo);
 				}
 			}
+			foreach (VirtualFile file in listing.ListFiles()) {
+
+				PhotoCollection.Photo photo = config.Photos.Photos.Photos.First (l => l.Filename == file.Path.FileName);
+
+				if (photo != null) {
+					if (string.IsNullOrWhiteSpace (photo.HostedURL) && photo.Filename.Contains ("PANO")) {
+						hoster.Host (photo, file);
+					}
+				}
+			}
+
 
 			Log.Indent--;
 		}

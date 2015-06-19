@@ -53,6 +53,10 @@
     <Reference Include="Mono.Posix">
       <HintPath>..\packages\Core.Common.0.1.203\lib\net45\Mono.Posix.dll</HintPath>
     </Reference>
+    <Reference Include="FlickrNet">
+      <HintPath>..\packages\FlickrNet.3.16.0\lib\net20\FlickrNet.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
@@ -69,6 +73,9 @@
     <Compile Include="Pictures\Resize.cs" />
     <Compile Include="LocationIndex.cs" />
     <Compile Include="PhotoIndex.cs" />
+    <Compile Include="Hosting\FlickrHosting.cs" />
+    <Compile Include="Hosting\PhotoHosting.cs" />
+    <Compile Include="Hosting\DeviantsartHosting.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
@@ -82,9 +89,11 @@
     <None Include="assets\camera-photo.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="FlickrNet.chm" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="assets\" />
     <Folder Include="Pictures\" />
+    <Folder Include="Hosting\" />
   </ItemGroup>
 </Project>

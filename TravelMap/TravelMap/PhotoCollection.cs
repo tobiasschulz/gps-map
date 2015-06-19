@@ -100,6 +100,9 @@ namespace TravelMap
 			[JsonProperty ("location")]
 			public PortableLocation Location { get; set; } = null;
 
+			[JsonProperty ("url_hosted")]
+			public string HostedURL { get; set; } = null;
+
 			public override string ToString ()
 			{
 				return string.Format ("[Photo: Filename={0}, DateTime={1}, Location={2}]", Filename, DateTime, Location);

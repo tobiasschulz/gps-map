@@ -13753,6 +13753,15 @@
       "reference_note": ""
     },
     {
+      "latitude": 40.758963888888886,
+      "longitude": -73.97915277777777,
+      "altitude": 0.0,
+      "timestamp": "2015-06-06T19:32:20",
+      "provider": "exif",
+      "reference_file": "2015-06-18.jpg",
+      "reference_note": ""
+    },
+    {
       "latitude": 40.758927777777778,
       "longitude": -73.979141666666663,
       "altitude": 0.0,
