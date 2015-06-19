@@ -1,12 +1,13 @@
 ﻿using System;
-using System.Drawing;
-using BitMiracle.LibJpeg;
-using Core.Shell.Platform.FileSystems;
-using Core.IO;
 using System.Collections.Generic;
-using Newtonsoft.Json;
+using System.Drawing;
 using System.Linq;
+using BitMiracle.LibJpeg;
+using Core.Common;
+using Core.IO;
 using Core.Math;
+using Core.Shell.Platform.FileSystems;
+using Newtonsoft.Json;
 using TravelMap.Pictures;
 
 namespace TravelMap
@@ -65,6 +66,10 @@ namespace TravelMap
 
 		public void Save ()
 		{
+			/*foreach (Photo p in photos.Photos)
+				if (p.HostedURL != null && p.HostedURL.Contains ("<link>")) {
+					p.HostedURL = p.HostedURL.Between (left: "<link>", right: "</link>");
+				}*/
 			ConfigHelper.SaveConfig (fullPath: fullPath, stuff: photos);
 		}
 

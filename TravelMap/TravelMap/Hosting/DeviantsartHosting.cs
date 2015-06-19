@@ -43,6 +43,9 @@ namespace TravelMap.Hosting
 					w.Headers.Add ("Authorization", "Client-ID " + FUCK_YOU);
 					string response = Encoding.UTF8.GetString (w.UploadValues ("https://api.imgur.com/3/upload.xml", values));
 					Log.Info (response);
+					if (response.Contains ("<link>")) {
+						response = response.Between (left: "<link>", right: "</link>");
+					}
 					return response;
 				}
 			} catch (Exception ex) {
