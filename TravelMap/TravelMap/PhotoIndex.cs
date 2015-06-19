@@ -85,6 +85,7 @@ namespace TravelMap
 				if (photo != null) {
 					if (string.IsNullOrWhiteSpace (photo.HostedURL) && photo.Filename.Contains ("PANO")) {
 						hoster.Host (photo, file);
+						config.Photos.Save ();
 					}
 				}
 			}

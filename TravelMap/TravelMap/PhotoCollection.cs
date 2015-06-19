@@ -63,7 +63,7 @@ namespace TravelMap
 			return System.IO.File.ReadAllBytes (tempFilename);
 		}
 
-		void Save ()
+		public void Save ()
 		{
 			ConfigHelper.SaveConfig (fullPath: fullPath, stuff: photos);
 		}
