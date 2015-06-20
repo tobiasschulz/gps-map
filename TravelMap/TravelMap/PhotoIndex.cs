@@ -78,7 +78,7 @@ namespace TravelMap
 					config.Photos.AddPhoto (photo);
 				}
 			}
-			foreach (VirtualFile file in listing.ListFiles()) {
+			foreach (VirtualFile file in listing.ListFiles().OrderBy(f => FileHelper.Instance.Length(f.Path.RealPath))) {
 
 				PhotoCollection.Photo photo = config.Photos.Photos.Photos.First (l => l.Filename == file.Path.FileName);
 

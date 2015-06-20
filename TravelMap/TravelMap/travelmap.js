@@ -82,10 +82,11 @@ $(document).ready(function(){
 			var geoLocation  = new google.maps.LatLng(lat, lon);
 			var reference_file = dataArray[i]['filename'];
 			var thumbnail_url = "thumbnails/" + dataArray[i]['filename']; //"data:image/jpeg;charset=utf-8;base64," + dataArray[i]['thumbnail_base64'];
+			var full_url = dataArray[i]['url_hosted'];
 			var dialog_content = "Location: " + lat + "," + lon + "<br>"
 				+ "Timestamp: " + dataArray[i]['timestamp_local'] + " (local), " + dataArray[i]['timestamp_utc'] + " (UTC)" + "<br>"
 				+ "Filename: " + reference_file + "<br>"
-				+ "<img src='" + thumbnail_url + "'>";
+				+ "<img src='" + full_url + "'>";
 			
 			
 			var pixelLocation = projection.fromLatLngToDivPixel( geoLocation );

@@ -25,10 +25,12 @@ namespace TravelMap
 
 			ImgurHosting hosting = new ImgurHosting (config: config);
 
+			MapExporter mapExport = new MapExporter (config: config);
+			mapExport.ExportHTML5 ();
+
 			PhotoIndex photoIndex = new PhotoIndex (config: config, hoster: hosting);
 			photoIndex.SyncFromFiles ();
 
-			MapExporter mapExport = new MapExporter (config: config);
 			mapExport.ExportHTML5 ();
 
 			DesktopPlatform.Finish ();
