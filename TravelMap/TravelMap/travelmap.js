@@ -24,6 +24,9 @@ $(document).ready(function(){
 	    return b;
 	})(window.location.search.substr(1).split('&'));
 
+	function get_marker_icon_url (n) {
+		return "http://chart.apis.google.com/chart?chst=d_map_spin&chld=1|0|FFF600|15|_|"+n;
+	}
 	var icon_camera_url = "assets/camera-photo.png";
 
 	var geocoder;
@@ -58,6 +61,8 @@ $(document).ready(function(){
 
     // HOOK: SET JSON DATA
 
+    var markers = [];
+
 	MyOverlay.prototype.draw = function()
 	{
 	    var projection = this.getProjection();
@@ -65,7 +70,8 @@ $(document).ready(function(){
 	    var fragment = document.createDocumentFragment();
 	    
 	    this.markerLayer.empty(); // Empty any previous rendered markers
-	    
+
+	    markers = [];
 		for(var i = 0; i < dataArray.length; i++){
 			// Determine a random location from the bounds set previously
 			//var randomLatlng = new google.maps.LatLng(
@@ -83,36 +89,82 @@ $(document).ready(function(){
 			var reference_file = dataArray[i]['filename'];
 			var thumbnail_url = "thumbnails/" + dataArray[i]['filename']; //"data:image/jpeg;charset=utf-8;base64," + dataArray[i]['thumbnail_base64'];
 			var full_url = dataArray[i]['url_hosted'];
-			var dialog_content = "Location: " + lat + "," + lon + "<br>"
+			var dialog_content = "<div class='col-lg-3 col-md-4 col-sm-6 col-xs-12'>"
+				+ "<figure>"
+				+ "<img src='" + full_url + "'>"
+				+ "<figcaption>"
+				+ "Location: " + lat + "," + lon + "<br>"
 				+ "Timestamp: " + dataArray[i]['timestamp_local'] + " (local), " + dataArray[i]['timestamp_utc'] + " (UTC)" + "<br>"
 				+ "Filename: " + reference_file + "<br>"
-				+ "<img src='" + full_url + "'>";
+				+ "</figcaption>"
+				+ "</figure>"
+				+ "</div>";
 			
 			
 			var pixelLocation = projection.fromLatLngToDivPixel( geoLocation );
 
-			var icon_url = zoom >= 8 ? thumbnail_url : icon_camera_url;
+			var icon_url;
+			var icon_url_border_enabled;
+			if (zoom >= 8) {
+				icon_url = thumbnail_url;
+				icon_url_border_enabled = true;
+			}
+			else {
+				icon_url = get_marker_icon_url(1);
+				icon_url_border_enabled = false;
+			}
+
+			var marker = {
+				'pixelLocation': pixelLocation,
+				'dialog_content': dialog_content,
+				'lat': lat,
+				'lon': lon,
+				'thumbnail_url': thumbnail_url,
+				'icon_url': icon_url,
+				'icon_url_border_enabled': icon_url_border_enabled;
+				'count_photos': 1,
+			};
+			var found = false;
+			for(var j = 0; j < markers.length; j++){
+				var marker2 = markers[j];
+				var dx = Math.abs(marker2.pixelLocation.x - marker.pixelLocation.x);
+				var dy = Math.abs(marker2.pixelLocation.y - marker.pixelLocation.y);
+				if (dx <= 15 && dy <= 15) {
+					found = true;
+					marker2.dialog_content += marker.dialog_content;
+					marker2.count_photos += 1;
+					marker2.icon_url = get_marker_icon_url(marker2.count_photos);
+
+				}
+			}
+			if (!found) {
+				markers.push(marker);
+			}
+		}
+
+		for(var i = 0; i < markers.length; i++){
+			var marker = markers[i];
 
 			var point_html = '<div '
-								+'class="map-point" '
+								+'class="map-point icon_url_border_'+(marker.icon_url_border_enabled?"enabled":"disabled")+'" '
 								+'id="p'+i+'" '
 								+'title="'+i+'" '
 								+'style="'
 									+'width:8px; '
 									+'height:8px; '
-									+'left:'+pixelLocation.x+'px; '
-									+'top:'+pixelLocation.y+'px; '
+									+'left:'+marker.pixelLocation.x+'px; '
+									+'top:'+marker.pixelLocation.y+'px; '
 									+'position:absolute; '
 									+'cursor:pointer; '
 								+'" '
-								+'data-dialog="'+dialog_content+'" '
-								+'data-lat="'+lat+'" '
-								+'data-lon="'+lon+'" '
-								+'data-thumbnail_url="'+thumbnail_url+'" '
+								+'data-dialog="'+marker.dialog_content+'" '
+								+'data-lat="'+marker.lat+'" '
+								+'data-lon="'+marker.lon+'" '
+								+'data-thumbnail_url="'+marker.thumbnail_url+'" '
 							+'>'
 								+'<img '
-									+'src="' + icon_url + '" '
-									+'style="position: absolute; top: -6px; left: -6px; max-height: 32px;" '
+									+'src="'+marker.icon_url+'" '
+									+'style="position: absolute; top: -48px; left: -20px; max-height: 48px;" '
 								+'/>'
 							+'</div>'
 			;
@@ -173,7 +225,8 @@ $(document).ready(function(){
 	
 	// Make sure to use live because the markers are rendered by javascript after initial DOM load
 	$('body').on('click', '.map-point', function( e ){
-		$dialog.empty().append($(this).data('dialog'));
+		var dialog_data = $(this).data('dialog');
+		//$dialog.empty().append(dialog_data);
 		var lat = $(this).data('lat');
 		var lon = $(this).data('lon');
 		geocoder.geocode(
@@ -193,12 +246,16 @@ $(document).ready(function(){
 				var winW = $(window).width() - 180;
 				var winH = $(window).height() - 180;
 
-				$dialog.dialog({
+				$('#map-modal .photos').empty().append(dialog_data);
+				$('#map-modal .modal-title').text(title);
+				$('#map-modal').modal();
+
+				/*$dialog.dialog({
 					title: title,
 					height: winH,
 					width: winW,
 				});
-				$dialog.dialog('open');
+				$dialog.dialog('open');*/
 			}
 		);
 	});
