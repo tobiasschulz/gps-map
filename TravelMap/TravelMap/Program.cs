@@ -23,6 +23,9 @@ namespace TravelMap
 			LocationIndex locationIndex = new LocationIndex (config: config);
 			locationIndex.SyncFromFiles ();
 
+			ImportGooglePhotosJson importGoogle = new ImportGooglePhotosJson (config: config);
+			importGoogle.Import ();
+
 			ImgurHosting hosting = new ImgurHosting (config: config);
 
 			MapExporter mapExport = new MapExporter (config: config);

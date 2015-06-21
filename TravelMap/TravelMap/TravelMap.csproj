@@ -60,6 +60,7 @@
     <Reference Include="MinusEngine">
       <HintPath>..\packages\MinusEngine.2.0.3\lib\net45\MinusEngine.dll</HintPath>
     </Reference>
+    <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
@@ -80,6 +81,7 @@
     <Compile Include="Hosting\PhotoHosting.cs" />
     <Compile Include="Hosting\ImgurHosting.cs" />
     <Compile Include="Hosting\MinusHosting.cs" />
+    <Compile Include="Hosting\ImportGooglePhotosJson.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>

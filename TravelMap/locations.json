@@ -1,6 +1,1338 @@
 {
   "locations": [
     {
+      "latitude": 50.050625,
+      "longitude": 8.56953611111111,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150604_081153_IMG_20150604_081153-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 50.04655833333333,
+      "longitude": 8.5677444444444451,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150604_092956_IMG_20150604_092956-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 50.049802777777771,
+      "longitude": 8.5917833333333338,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150604_113834_IMG_20150604_113834-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 52.167363888888886,
+      "longitude": 20.932111111111109,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150604_171103_IMG_20150604_171103-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.774783333333339,
+      "longitude": -74.033952777777785,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_010412_IMG_20150605_010412-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.772233333333325,
+      "longitude": -74.029294444444446,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_095639_IMG_20150605_095639-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.771674999999995,
+      "longitude": -74.029827777777783,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_095938_IMG_20150605_095938-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.756366666666665,
+      "longitude": -73.98660000000001,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_111853_IMG_20150605_111853-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.756366666666665,
+      "longitude": -73.98660000000001,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_111902_IMG_20150605_111902-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.756547222222217,
+      "longitude": -73.986541666666668,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_111937_IMG_20150605_111937-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.758844444444449,
+      "longitude": -73.983433333333338,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_113015_IMG_20150605_113015-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.75845833333333,
+      "longitude": -73.983630555555564,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_113033_IMG_20150605_113033-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.75845833333333,
+      "longitude": -73.983630555555564,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_113036_IMG_20150605_113036-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.758561111111113,
+      "longitude": -73.98435,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_113316_IMG_20150605_113316-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.758561111111113,
+      "longitude": -73.98435,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_113324_IMG_20150605_113324-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.74453888888889,
+      "longitude": -73.995102777777774,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_131520_IMG_20150605_131520-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.7015,
+      "longitude": -74.013880555555559,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_134822_IMG_20150605_134822-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.701791666666665,
+      "longitude": -74.01499166666666,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_134920_IMG_20150605_134920-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.701177777777779,
+      "longitude": -74.015508333333329,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_135102_IMG_20150605_135102-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.70108333333333,
+      "longitude": -74.015463888888888,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_142357_IMG_20150605_142357-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.644708333333327,
+      "longitude": -74.073366666666658,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_150005_IMG_20150605_150005-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.645147222222221,
+      "longitude": -74.07455,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_150225_IMG_20150605_150225-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.645636111111109,
+      "longitude": -74.07501111111111,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_152725_IMG_20150605_152725-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.64563888888889,
+      "longitude": -74.075002777777783,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_152743_IMG_20150605_152743-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.645619444444449,
+      "longitude": -74.074983333333336,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_152835_IMG_20150605_152835-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.645630555555549,
+      "longitude": -74.074999999999989,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_152846_IMG_20150605_152846-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.645574999999994,
+      "longitude": -74.074888888888879,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_152904_IMG_20150605_152904-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.646588888888886,
+      "longitude": -74.076122222222224,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_164215_IMG_20150605_164215-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.645186111111116,
+      "longitude": -74.074744444444448,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_164725_IMG_20150605_164725-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.774911111111109,
+      "longitude": -74.02643611111111,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150605_215836_IMG_20150605_215836-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.778727777777775,
+      "longitude": -73.982088888888882,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150606_122116_IMG_20150606_122116-EFFECTS.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.759919444444442,
+      "longitude": -73.980819444444435,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150606_143030_IMG_20150606_143030-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.760172222222216,
+      "longitude": -73.980724999999993,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150606_143045_IMG_20150606_143045-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.760138888888889,
+      "longitude": -73.980952777777773,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150606_143127_IMG_20150606_143127-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.760119444444449,
+      "longitude": -73.981063888888883,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150606_143139_IMG_20150606_143139-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.75908888888889,
+      "longitude": -73.979630555555559,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150606_150256_IMG_20150606_150256-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.759075,
+      "longitude": -73.979177777777778,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150606_151353_IMG_20150606_151353-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.759072222222215,
+      "longitude": -73.979208333333332,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150606_151400_IMG_20150606_151400-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.759075,
+      "longitude": -73.979177777777778,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150606_151405_IMG_20150606_151405-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.758961111111105,
+      "longitude": -73.979380555555551,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150606_151605_IMG_20150606_151605-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.759013888888887,
+      "longitude": -73.979363888888884,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150606_151619_IMG_20150606_151619-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.758958333333332,
+      "longitude": -73.979469444444447,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150606_151635_IMG_20150606_151635-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.759005555555561,
+      "longitude": -73.979458333333326,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150606_151706_IMG_20150606_151706-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.759038888888888,
+      "longitude": -73.979466666666667,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150606_151914_IMG_20150606_151914-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.759030555555555,
+      "longitude": -73.979472222222228,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150606_152004_IMG_20150606_152004-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.771855555555554,
+      "longitude": -74.02921944444445,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_123836_IMG_20150607_123836-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.768555555555551,
+      "longitude": -73.981063888888883,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_140434_IMG_20150607_140434-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.768111111111111,
+      "longitude": -73.979730555555548,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_142016_IMG_20150607_142016-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.767963888888886,
+      "longitude": -73.974111111111114,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_152124_IMG_20150607_152124-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.773730555555552,
+      "longitude": -73.974222222222224,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_171203_IMG_20150607_171203-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.775411111111111,
+      "longitude": -73.973963888888889,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_172020_IMG_20150607_172020-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.775577777777777,
+      "longitude": -73.973866666666666,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_172307_IMG_20150607_172307-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.775969444444442,
+      "longitude": -73.973644444444446,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_172547_IMG_20150607_172547-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.775974999999995,
+      "longitude": -73.973683333333327,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_172616_IMG_20150607_172616-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.776058333333339,
+      "longitude": -73.973772222222223,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_172648_IMG_20150607_172648-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.776058333333339,
+      "longitude": -73.973772222222223,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_172658_IMG_20150607_172658-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.776058333333339,
+      "longitude": -73.973772222222223,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_172711_IMG_20150607_172711-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.774255555555555,
+      "longitude": -74.027036111111116,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_204520_IMG_20150607_204520-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.774255555555555,
+      "longitude": -74.027036111111116,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_204537_IMG_20150607_204537-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.77502777777778,
+      "longitude": -74.026838888888889,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_205617_IMG_20150607_205617-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.775297222222228,
+      "longitude": -74.02654722222222,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_050546_IMG_20150608_050546-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.887747222222224,
+      "longitude": -77.04784166666667,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_115728_IMG_20150608_115728-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.889052777777778,
+      "longitude": -77.048844444444441,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_120643_IMG_20150608_120643-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.889022222222223,
+      "longitude": -77.0489361111111,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_120709_IMG_20150608_120709-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.889025000000004,
+      "longitude": -77.048988888888886,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_120735_IMG_20150608_120735-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.889016666666663,
+      "longitude": -77.0489388888889,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_120810_IMG_20150608_120810-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.889058333333331,
+      "longitude": -77.048858333333342,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_120949_IMG_20150608_120949-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.889088888888885,
+      "longitude": -77.048955555555551,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_121031_IMG_20150608_121031-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.88905,
+      "longitude": -77.04901666666666,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_121042_IMG_20150608_121042-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.889063888888884,
+      "longitude": -77.049011111111113,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_121113_IMG_20150608_121113-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.889119444444447,
+      "longitude": -77.0490638888889,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_121128_IMG_20150608_121128-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.890680555555555,
+      "longitude": -77.037186111111112,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_121224_IMG_20150608_121224-EFFECTS.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.890680555555555,
+      "longitude": -77.037186111111112,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_121556_IMG_20150608_121556-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.889405555555555,
+      "longitude": -77.049308333333329,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_122015_IMG_20150608_122015-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.889430555555556,
+      "longitude": -77.049311111111109,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_122024_IMG_20150608_122024-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.889466666666664,
+      "longitude": -77.0489861111111,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_122134_IMG_20150608_122134-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.891236111111112,
+      "longitude": -77.04772777777778,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_123741_IMG_20150608_123741-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.891236111111112,
+      "longitude": -77.04772777777778,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_123752_IMG_20150608_123752-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.891241666666666,
+      "longitude": -77.047744444444447,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_123807_IMG_20150608_123807-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.89118055555555,
+      "longitude": -77.046475,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_123946_IMG_20150608_123946-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.891513888888888,
+      "longitude": -77.046705555555562,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_124142_IMG_20150608_124142-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.898577777777774,
+      "longitude": -77.036622222222221,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_124144_IMG_20150608_124144-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.898669444444444,
+      "longitude": -77.036650000000009,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_130119_IMG_20150608_130119-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.898583333333335,
+      "longitude": -77.03661944444444,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_130201_IMG_20150608_130201-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.889502777777778,
+      "longitude": -77.010569444444442,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_130237_IMG_20150608_130237-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.898494444444445,
+      "longitude": -77.03645,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_130314_IMG_20150608_130314-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.889738888888886,
+      "longitude": -77.011811111111115,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_154108_IMG_20150608_154108-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 38.889502777777778,
+      "longitude": -77.010569444444442,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_155334_IMG_20150608_155334-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.7597,
+      "longitude": -73.987869444444442,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150608_210537_IMG_20150608_210537-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.780736111111111,
+      "longitude": -74.046038888888887,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150609_130652_IMG_20150609_130652-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.786266666666663,
+      "longitude": -74.04528333333333,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150609_142732_IMG_20150609_142732-EFFECTS.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.754716666666674,
+      "longitude": -73.997352777777778,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_113206_IMG_20150610_113206-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.718627777777776,
+      "longitude": -74.000430555555553,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_135451_IMG_20150610_135451-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.70334722222222,
+      "longitude": -73.996269444444437,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_161349_IMG_20150610_161349-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.711866666666666,
+      "longitude": -74.0043,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_161355_IMG_20150610_161355-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.708488888888887,
+      "longitude": -73.999963888888885,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_162452_IMG_20150610_162452-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.707125,
+      "longitude": -73.998247222222219,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_163214_IMG_20150610_163214-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.701061111111109,
+      "longitude": -73.990458333333336,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_165101_IMG_20150610_165101-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.703327777777773,
+      "longitude": -73.9965,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_172035_IMG_20150610_172035-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.703327777777773,
+      "longitude": -73.9965,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_172042_IMG_20150610_172042-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.703327777777773,
+      "longitude": -73.9965,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_172049_IMG_20150610_172049-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.757344444444442,
+      "longitude": -73.9894,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_215042_IMG_20150610_215042-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.75770555555556,
+      "longitude": -73.98492777777777,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_215048_IMG_20150610_215048-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.757219444444445,
+      "longitude": -73.989386111111116,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_215425_IMG_20150610_215425-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.757202777777778,
+      "longitude": -73.9884,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_215440_IMG_20150610_215440-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.757422222222225,
+      "longitude": -73.987413888888881,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_215515_IMG_20150610_215515-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.757313888888888,
+      "longitude": -73.9851861111111,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_220058_IMG_20150610_220058_1-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.757558333333336,
+      "longitude": -73.984641666666661,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_220215_IMG_20150610_220215-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.757558333333336,
+      "longitude": -73.984577777777773,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_220230_IMG_20150610_220230-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.757647222222218,
+      "longitude": -73.984661111111109,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_220245_IMG_20150610_220245-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.757647222222218,
+      "longitude": -73.984661111111109,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_220308_IMG_20150610_220308-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.757675,
+      "longitude": -73.9848111111111,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_220350_IMG_20150610_220350-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.758022222222223,
+      "longitude": -73.985530555555556,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_220519_IMG_20150610_220519-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.758022222222223,
+      "longitude": -73.985375,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_220716_IMG_20150610_220716-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.758044444444444,
+      "longitude": -73.985355555555557,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_220801_IMG_20150610_220801-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.758072222222225,
+      "longitude": -73.985611111111112,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_220922_IMG_20150610_220922-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.757975,
+      "longitude": -73.985577777777777,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_221147_IMG_20150610_221147-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.757655555555552,
+      "longitude": -73.98615,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_221308_IMG_20150610_221308-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.757880555555559,
+      "longitude": -73.986102777777774,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_221606_IMG_20150610_221606-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.757827777777777,
+      "longitude": -73.986116666666661,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_221737_IMG_20150610_221737-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.756752777777784,
+      "longitude": -73.985413888888885,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_221907_IMG_20150610_221907-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.756766666666671,
+      "longitude": -73.985477777777774,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_221920_IMG_20150610_221920-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.756266666666669,
+      "longitude": -73.986088888888887,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_231113_IMG_20150610_231113-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.756666666666668,
+      "longitude": -73.986255555555559,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_231344_IMG_20150610_231344-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.757408333333338,
+      "longitude": -73.985422222222226,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150610_233856_IMG_20150610_233856-EFFECTS.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.759213888888887,
+      "longitude": -73.984925,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150611_000657_IMG_20150611_000657-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.75909166666667,
+      "longitude": -73.984958333333324,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150611_000715_IMG_20150611_000715-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.759008333333334,
+      "longitude": -73.984983333333332,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150611_000804_IMG_20150611_000804-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.759019444444448,
+      "longitude": -73.985172222222218,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150611_000915_IMG_20150611_000915-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.772055555555561,
+      "longitude": -74.029266666666658,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150611_154016_IMG_20150611_154016-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.646875,
+      "longitude": -74.079333333333338,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150611_214538_IMG_20150611_214538-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.646897222222222,
+      "longitude": -74.079397222222227,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150611_214636_IMG_20150611_214636-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.697413888888882,
+      "longitude": -74.01839722222222,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150611_225154_IMG_20150611_225154-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.757758333333335,
+      "longitude": -73.98995,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150612_115341_IMG_20150612_115341-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.772266666666667,
+      "longitude": -73.976633333333339,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150612_171514_IMG_20150612_171514-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.772358333333337,
+      "longitude": -73.976611111111112,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150612_171649_IMG_20150612_171649-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.770513888888892,
+      "longitude": -73.974602777777775,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150612_171706_IMG_20150612_171706-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.770683333333331,
+      "longitude": -73.975452777777775,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150612_172142_IMG_20150612_172142-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.770583333333335,
+      "longitude": -73.97464166666667,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150612_172459_IMG_20150612_172459-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.77054722222222,
+      "longitude": -73.974608333333336,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150612_172513_IMG_20150612_172513-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.770544444444447,
+      "longitude": -73.974613888888882,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150612_172600_IMG_20150612_172600-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.770513888888892,
+      "longitude": -73.974586111111108,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150612_172639_IMG_20150612_172639-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.770502777777779,
+      "longitude": -73.974577777777782,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150612_172750_IMG_20150612_172750-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.770502777777779,
+      "longitude": -73.974577777777782,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150612_172800_IMG_20150612_172800-COLLAGE.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.770177777777775,
+      "longitude": -73.975902777777776,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150612_173810_IMG_20150612_173810-EFFECTS.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.771433333333334,
+      "longitude": -73.977566666666675,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150612_174330_IMG_20150612_174330-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.730338888888895,
+      "longitude": -73.913902777777778,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150612_185013_IMG_20150612_185013-PANO.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.706952777777779,
+      "longitude": -73.8187638888889,
+      "altitude": 0.0,
+      "timestamp": "0001-01-01T00:00:00",
+      "provider": "exif",
+      "reference_file": "tobias_20150612_193901_IMG_20150612_193901-PANO.jpg",
+      "reference_note": ""
+    },
+    {
       "latitude": 50.228547222222218,
       "longitude": 8.6804861111111116,
       "altitude": 0.0,
@@ -232,6 +1564,15 @@
       "timestamp": "2015-06-04T06:08:45",
       "provider": "exif",
       "reference_file": "IMG_20150604_080906.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 50.049525,
+      "longitude": 8.569116666666666,
+      "altitude": 0.0,
+      "timestamp": "2015-06-04T06:08:45",
+      "provider": "exif",
+      "reference_file": "tobias_20150604_081023_2015-06-03.jpg",
       "reference_note": ""
     },
     {
@@ -928,6 +2269,15 @@
       "reference_note": ""
     },
     {
+      "latitude": 50.049944444444442,
+      "longitude": 8.5912388888888884,
+      "altitude": 0.0,
+      "timestamp": "2015-06-04T08:13:11",
+      "provider": "exif",
+      "reference_file": "tobias_20150604_101340_2015-06-04.jpg",
+      "reference_note": ""
+    },
+    {
       "latitude": 50.049933333333335,
       "longitude": 8.59118611111111,
       "altitude": 0.0,
@@ -982,6 +2332,24 @@
       "reference_note": ""
     },
     {
+      "latitude": 50.049933333333335,
+      "longitude": 8.59118611111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-04T08:16:29",
+      "provider": "exif",
+      "reference_file": "tobias_20150604_101732_2015-06-04.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 50.049933333333335,
+      "longitude": 8.59118611111111,
+      "altitude": 0.0,
+      "timestamp": "2015-06-04T08:16:29",
+      "provider": "exif",
+      "reference_file": "tobias_20150604_101814_2015-06-04.jpg",
+      "reference_note": ""
+    },
+    {
       "latitude": 50.049969444444443,
       "longitude": 8.5915944444444445,
       "altitude": 0.0,
@@ -1006,6 +2374,15 @@
       "timestamp": "2015-06-04T08:22:49",
       "provider": "exif",
       "reference_file": "IMG_20150604_102255.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 50.050086111111106,
+      "longitude": 8.59145,
+      "altitude": 0.0,
+      "timestamp": "2015-06-04T08:22:49",
+      "provider": "exif",
+      "reference_file": "tobias_20150604_102311_2015-06-04.jpg",
       "reference_note": ""
     },
     {
@@ -1351,12 +2728,30 @@
       "reference_note": ""
     },
     {
+      "latitude": 50.049802777777771,
+      "longitude": 8.5917833333333338,
+      "altitude": 0.0,
+      "timestamp": "2015-06-04T08:38:54",
+      "provider": "exif",
+      "reference_file": "tobias_20150604_125648_2015-06-04.jpg",
+      "reference_note": ""
+    },
+    {
       "latitude": 52.173833333333334,
       "longitude": 20.969527777777778,
       "altitude": 0.0,
       "timestamp": "2015-06-04T11:07:10",
       "provider": "exif",
       "reference_file": "IMG_20150604_130718.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 52.173833333333334,
+      "longitude": 20.969527777777778,
+      "altitude": 0.0,
+      "timestamp": "2015-06-04T11:07:10",
+      "provider": "exif",
+      "reference_file": "tobias_20150604_130742_2015-06-04.jpg",
       "reference_note": ""
     },
     {
@@ -1537,6 +2932,15 @@
       "timestamp": "2015-06-04T14:12:04",
       "provider": "exif",
       "reference_file": "IMG_20150604_161344.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 52.179836111111108,
+      "longitude": 20.977438888888891,
+      "altitude": 0.0,
+      "timestamp": "2015-06-04T14:12:04",
+      "provider": "exif",
+      "reference_file": "tobias_20150604_161520_2015-06-04.jpg",
       "reference_note": ""
     },
     {
@@ -16354,6 +17758,15 @@
       "reference_note": ""
     },
     {
+      "latitude": 40.769866666666665,
+      "longitude": -73.973827777777771,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T19:47:36",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_225416_2015-06-07.jpg",
+      "reference_note": ""
+    },
+    {
       "latitude": 40.769836111111111,
       "longitude": -73.973855555555559,
       "altitude": 0.0,
@@ -16435,12 +17848,30 @@
       "reference_note": ""
     },
     {
+      "latitude": 40.771916666666662,
+      "longitude": -73.974758333333341,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T20:19:54",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_225237_2015-06-07.jpg",
+      "reference_note": ""
+    },
+    {
       "latitude": 40.772355555555556,
       "longitude": -73.974555555555554,
       "altitude": 0.0,
       "timestamp": "2015-06-07T20:21:14",
       "provider": "exif",
       "reference_file": "PANO_20150607_162009.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.772355555555556,
+      "longitude": -73.974555555555554,
+      "altitude": 0.0,
+      "timestamp": "2015-06-07T20:21:14",
+      "provider": "exif",
+      "reference_file": "tobias_20150607_225213_2015-06-07.jpg",
       "reference_note": ""
     },
     {
@@ -43162,6 +44593,15 @@
       "timestamp": "2015-06-11T23:28:20",
       "provider": "exif",
       "reference_file": "IMG_20150611_192825.jpg",
+      "reference_note": ""
+    },
+    {
+      "latitude": 40.750336111111118,
+      "longitude": -73.987538888888892,
+      "altitude": 0.0,
+      "timestamp": "2015-06-11T23:28:20",
+      "provider": "exif",
+      "reference_file": "tobias_20150612_013836_2015-06-11.jpg",
       "reference_note": ""
     },
     {

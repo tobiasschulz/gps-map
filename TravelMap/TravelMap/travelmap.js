@@ -145,11 +145,11 @@ $(document).ready(function(){
 		this.markerLayer.append(fragment);
 	};
 	
-	var myLatlng = new google.maps.LatLng(38.392303,-86.931067); // Jasper, IN
+	var myLatlng = new google.maps.LatLng(38.392303,-46.931067); // Jasper, IN
 	
 	var map = new google.maps.Map(document.getElementById("map-canvas"),
 			{
-				zoom: 4,
+				zoom: 3,
 				center: myLatlng,
 				mapTypeId: google.maps.MapTypeId.ROADMAP
 			});
