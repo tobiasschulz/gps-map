@@ -93,9 +93,10 @@ $(document).ready(function(){
 				+ "<figure>"
 				+ "<img src='" + full_url + "'>"
 				+ "<figcaption>"
-				+ "Location: " + lat + "," + lon + "<br>"
-				+ "Timestamp: " + dataArray[i]['timestamp_local'] + " (local), " + dataArray[i]['timestamp_utc'] + " (UTC)" + "<br>"
-				+ "Filename: " + reference_file + "<br>"
+				+ "<b>Location:</b> " + lat + "," + lon + "<br>"
+				+ "<b>Date:</b> " + dataArray[i]['timestamp_local'] + "<br>"
+				//+ "<b>Timestamp:</b> " + dataArray[i]['timestamp_local'] + " (local), <br>" + dataArray[i]['timestamp_utc'] + " (UTC)" + "<br>"
+				//+ "Filename: " + reference_file + "<br>"
 				+ "</figcaption>"
 				+ "</figure>"
 				+ "</div>";
@@ -134,7 +135,7 @@ $(document).ready(function(){
 					marker2.dialog_content += marker.dialog_content;
 					marker2.count_photos += 1;
 					marker2.icon_url = get_marker_icon_url(marker2.count_photos);
-
+					marker2.icon_url_border_enabled = false;
 				}
 			}
 			if (!found) {
