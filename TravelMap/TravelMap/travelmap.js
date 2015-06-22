@@ -28,6 +28,8 @@ $(document).ready(function(){
 		return "http://chart.apis.google.com/chart?chst=d_map_spin&chld=1|0|FFF600|15|_|"+n;
 	}
 	var icon_camera_url = "assets/camera-photo.png";
+	var marker_icon_max_height = 48;
+	var photo_icon_max_height = 18;
 
 	var geocoder;
 	geocoder = new google.maps.Geocoder();
@@ -71,8 +73,8 @@ $(document).ready(function(){
 	    
 	    this.markerLayer.empty(); // Empty any previous rendered markers
 
-	    markers = [];
-		for(var i = 0; i < dataArray.length; i++){
+	    marker_groups = [];
+		for (var i = 0; i < dataArray.length; i++) {
 			// Determine a random location from the bounds set previously
 			//var randomLatlng = new google.maps.LatLng(
 			//		southWest.lat() + latSpan * Math.random(),
@@ -102,96 +104,100 @@ $(document).ready(function(){
 				+ "</div>";
 			
 			
-			var pixelLocation = projection.fromLatLngToDivPixel( geoLocation );
+			var pixel_location = projection.fromLatLngToDivPixel( geoLocation );
 
 			var icon_url;
 			var icon_url_border_enabled;
-			if (zoom >= 8) {
+			var icon_max_height;
+			var grouping_enabled;
+			if (zoom >= 10) {
 				icon_url = thumbnail_url;
 				icon_url_border_enabled = true;
+				icon_max_height = photo_icon_max_height;
+				grouping_enabled = false;
 			}
 			else {
 				icon_url = get_marker_icon_url(1);
 				icon_url_border_enabled = false;
+				icon_max_height = marker_icon_max_height;
+				grouping_enabled = true;
 			}
 
-			var marker = {
-				'pixelLocation': pixelLocation,
+			var marker_group = {
+				'markers': [
+					{
+						'pixel_location': pixel_location,
+						'coords': { 'lat': lat, 'lon': lon },
+						'icon_url': icon_url,
+					}
+				],
 				'dialog_content': dialog_content,
-				'lat': lat,
-				'lon': lon,
-				'thumbnail_url': thumbnail_url,
-				'icon_url': icon_url,
 				'icon_url_border_enabled': icon_url_border_enabled,
 				'count_photos': 1,
+				'icon_max_height': icon_max_height,
 			};
-			var found = false;
-			for(var j = 0; j < markers.length; j++){
-				var marker2 = markers[j];
-				var dx = Math.abs(marker2.pixelLocation.x - marker.pixelLocation.x);
-				var dy = Math.abs(marker2.pixelLocation.y - marker.pixelLocation.y);
+			var grouped = false;
+			for (var j = 0; j < marker_groups.length; j++) {
+				var stored_group = marker_groups[j];
+				var dx = Math.abs(stored_group.markers[0].pixel_location.x - marker_group.markers[0].pixel_location.x);
+				var dy = Math.abs(stored_group.markers[0].pixel_location.y - marker_group.markers[0].pixel_location.y);
 				if (dx <= 15 && dy <= 15) {
-					found = true;
-					marker2.dialog_content += marker.dialog_content;
-					marker2.count_photos += 1;
-					marker2.icon_url = get_marker_icon_url(marker2.count_photos);
-					marker2.icon_url_border_enabled = false;
+					grouped = true;
+					stored_group.dialog_content += marker_group.dialog_content;
+					stored_group.count_photos += 1;
+					if (grouping_enabled) {
+						stored_group.markers[0].icon_url = get_marker_icon_url(stored_group.count_photos);
+						stored_group.icon_url_border_enabled = false;
+						stored_group.icon_max_height = marker_icon_max_height;
+					}
+					else {
+						stored_group.markers = stored_group.markers.concat(marker_group.markers);
+						stored_group.icon_url_border_enabled = true;
+						stored_group.icon_max_height = photo_icon_max_height;
+					}
 				}
 			}
-			if (!found) {
-				markers.push(marker);
+			if (!grouped) {
+				marker_groups.push(marker_group);
 			}
 		}
 
-		for(var i = 0; i < markers.length; i++){
-			var marker = markers[i];
+		for (var i = 0; i < marker_groups.length; i++) {
+			var marker_group = marker_groups[i];
 
-			var point_html = '<div '
-								+'class="map-point icon_url_border_'+(marker.icon_url_border_enabled?"enabled":"disabled")+'" '
-								+'id="p'+i+'" '
-								+'title="'+i+'" '
-								+'style="'
-									+'width:8px; '
-									+'height:8px; '
-									+'left:'+marker.pixelLocation.x+'px; '
-									+'top:'+marker.pixelLocation.y+'px; '
-									+'position:absolute; '
-									+'cursor:pointer; '
-								+'" '
-								+'data-dialog="'+marker.dialog_content+'" '
-								+'data-lat="'+marker.lat+'" '
-								+'data-lon="'+marker.lon+'" '
-								+'data-thumbnail_url="'+marker.thumbnail_url+'" '
-							+'>'
-								+'<img '
-									+'src="'+marker.icon_url+'" '
-									+'style="position: absolute; top: -48px; left: -20px; max-height: 48px;" '
-								+'/>'
-							+'</div>'
-			;
+			for (var j = 0; j < marker_group.markers.length; j++) {
 
-			var $point = $(point_html);
-			
-			// For zoom 8 and closer show a title above the marker icon
-			/*if( zoom >= 8 ){
-				$point.append('<span '
-								+'style="'
-									+'position:absolute; '
-									+'top:-22px; '
-									+'left:-37px; '
-									+'width:75px; '
-									+'background-color:#fff; '
-									+'border:solid 1px #000; '
-									+'font-family: Arial, Helvetica, sans-serif; '
-									+'font-size:10px; '
-									+'text-align:center; '
-								+'">'
-									+ reference_file
-								+'</span>');
-			}*/
-			
-			// Append the HTML to the fragment in memory
-			fragment.appendChild( $point.get(0) );
+				var marker = marker_group.markers[j];
+
+				var point_html = '<div '
+									+'class="map-point icon_url_border_'+(marker_group.icon_url_border_enabled?"enabled":"disabled")+'" '
+									+'id="p'+i+'" '
+									+'title="'+i+'" '
+									+'style="'
+										+'width:8px; '
+										+'height:8px; '
+										+'left:'+marker.pixel_location.x+'px; '
+										+'top:'+marker.pixel_location.y+'px; '
+										+'position:absolute; '
+										+'cursor:pointer; '
+									+'" '
+									+'data-dialog="'+marker_group.dialog_content+'" '
+									+'data-lat="'+marker.coords.lat+'" '
+									+'data-lon="'+marker.coords.lon+'" '
+								+'>'
+									+'<img '
+										+'src="'+marker.icon_url+'" '
+										+'style="position: absolute; top: -48px; left: -20px; max-height: '+marker_group.icon_max_height+'px;" '
+									+'/>'
+								+'</div>'
+				;
+
+				var $point = $(point_html);
+
+				// Append the HTML to the fragment in memory
+				fragment.appendChild( $point.get(0) );
+
+			}
 		}
 		
 		// Now append the entire fragment from memory onto the DOM
