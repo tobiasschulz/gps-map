@@ -29,7 +29,7 @@ $(document).ready(function(){
 	}
 	var icon_camera_url = "assets/camera-photo.png";
 	var marker_icon_max_height = 48;
-	var photo_icon_max_height = 18;
+	var photo_icon_max_height = 50;
 
 	var geocoder;
 	geocoder = new google.maps.Geocoder();
@@ -110,11 +110,11 @@ $(document).ready(function(){
 			var icon_url_border_enabled;
 			var icon_max_height;
 			var grouping_enabled;
-			if (zoom >= 10) {
+			if (zoom >= 12) {
 				icon_url = thumbnail_url;
 				icon_url_border_enabled = true;
 				icon_max_height = photo_icon_max_height;
-				grouping_enabled = false;
+				grouping_enabled = zoom >= 15 ? false : true;
 			}
 			else {
 				icon_url = get_marker_icon_url(1);
@@ -187,7 +187,7 @@ $(document).ready(function(){
 								+'>'
 									+'<img '
 										+'src="'+marker.icon_url+'" '
-										+'style="position: absolute; top: -48px; left: -20px; max-height: '+marker_group.icon_max_height+'px;" '
+										+'style="position: absolute; top: -48px; left: -20px; object-fit: scale-down; max-height: '+marker_group.icon_max_height+'px; max-width: '+marker_group.icon_max_height+'px;" '
 									+'/>'
 								+'</div>'
 				;

@@ -96,6 +96,9 @@ namespace TravelMap
 			[JsonProperty ("filename")]
 			public string Filename { get; set; } = "";
 
+			[JsonProperty ("dimensions")]
+			public PhotoDimensions Dimensions { get; set; } = null;
+
 			[JsonProperty ("timestamp_local")]
 			public DateTime? DateTime { get; set; } = null;
 
@@ -129,6 +132,15 @@ namespace TravelMap
 			public override int GetHashCode ()
 			{
 				return Filename.GetHashCode ();
+			}
+
+			public class PhotoDimensions
+			{
+				[JsonProperty ("width")]
+				public int Width { get; set; } = 0;
+
+				[JsonProperty ("height")]
+				public int Height { get; set; } = 0;
 			}
 		}
 	}

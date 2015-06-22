@@ -8,6 +8,7 @@ using Core.Shell.Platform.FileSystems;
 using TravelMap.Hosting;
 using TravelMap.Pictures;
 using System.Linq;
+using System.Drawing;
 
 namespace TravelMap
 {
@@ -72,6 +73,8 @@ namespace TravelMap
 						photo.DateTimeUTC = photo.DateTime.Value - UtcOffset.FindOffset (list: config.Config.UtcOffsets, dateTimeLocal: photo.DateTime.Value).ToTimeSpan ();
 						photo.Location = config.Locations.InterpolateLocation (photo.DateTimeUTC.Value);
 					}
+					Image img = Image.FromFile (file.Path.RealPath);
+					photo.Dimensions = new PhotoCollection.Photo.PhotoDimensions { Width = img.Width, Height = img.Height };
 
 					Log.Info (file.Path.FileName, ": ", photo.Location);
 
