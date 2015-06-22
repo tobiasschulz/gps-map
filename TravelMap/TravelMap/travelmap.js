@@ -87,6 +87,7 @@ $(document).ready(function(){
 
 			var lat = dataArray[i]['location']['latitude'];
 			var lon = dataArray[i]['location']['longitude'];
+			var dimensions = dataArray[i]['dimensions'];
 			var geoLocation  = new google.maps.LatLng(lat, lon);
 			var reference_file = dataArray[i]['filename'];
 			var thumbnail_url = "thumbnails/" + dataArray[i]['filename']; //"data:image/jpeg;charset=utf-8;base64," + dataArray[i]['thumbnail_base64'];
@@ -129,6 +130,7 @@ $(document).ready(function(){
 						'pixel_location': pixel_location,
 						'coords': { 'lat': lat, 'lon': lon },
 						'icon_url': icon_url,
+						'dimensions': dimensions,
 					}
 				],
 				'dialog_content': dialog_content,
@@ -187,7 +189,13 @@ $(document).ready(function(){
 								+'>'
 									+'<img '
 										+'src="'+marker.icon_url+'" '
-										+'style="position: absolute; top: -48px; left: -20px; object-fit: scale-down; max-height: '+marker_group.icon_max_height+'px; max-width: '+marker_group.icon_max_height+'px;" '
+										+'style="position: absolute; top: -48px; left: -20px; '
+										+(
+											  marker.dimensions.width > marker.dimensions.height
+											? 'max-height: '+marker_group.icon_max_height+'px;'
+											: 'max-width: '+marker_group.icon_max_height+'px;'
+										 )
+										+'" '
 									+'/>'
 								+'</div>'
 				;

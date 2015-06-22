@@ -20,7 +20,7 @@ namespace TravelMap.Hosting
 			JsonAlbumCollection albums = PortableConfigHelper.ReadConfig<JsonAlbumCollection> (content: ref json);
 
 			foreach (var photo in config.Photos.Photos.Photos) {
-				JsonPhoto jsonPhoto = albums.Albums.Values.SelectMany<JsonAlbum, JsonPhoto> (p => p.Photos).FirstOrDefault (p => p.Filename == photo.Filename);
+				JsonPhoto jsonPhoto = albums.Albums.Values.SelectMany<JsonAlbum, JsonPhoto> (p => p.Photos).FirstOrDefault (p => p.Filenames.Any (f => f == photo.Filename));
 
 				if (jsonPhoto != null) {
 					photo.HostedURL = jsonPhoto.HostedURL;
@@ -49,8 +49,8 @@ namespace TravelMap.Hosting
 			[JsonProperty ("google_photos_id")]
 			public string GoogleId { get; set; } = "";
 
-			[JsonProperty ("filename")]
-			public string Filename { get; set; } = "";
+			[JsonProperty ("filenames")]
+			public string[] Filenames { get; set; } = new string[0];
 
 			[JsonProperty ("width")]
 			public int Width { get; set; } = 0;
